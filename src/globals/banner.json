@@ -1,0 +1,72 @@
+{
+    "about": {
+        "title": "About Us",
+        "crumb": "About Us",
+        "image": ""
+    },
+    "case_detail": {
+        "title": "Case Detail",
+        "crumb": "Case Detail",
+        "image": "images/banner/portfolio-d.jpg"
+    },
+    "case_study": {
+        "title": "Case Study",
+        "crumb": "Case Study",
+        "image": ""
+    },
+    "clients": {
+        "title": "What Client Says?",
+        "crumb": "Client Page",
+        "image": ""
+    },
+    "contact": {
+        "title": "Contact Us",
+        "crumb": "Contact Us",
+        "image": ""
+    },
+    "faq": {
+        "title": "FAQ Page",
+        "crumb": "FAQ Page",
+        "image": ""
+    },
+    "pricing": {
+        "title": "Pricing Page",
+        "crumb": "Pricing Page",
+        "image": ""
+    },
+    "team": {
+        "title": "Team Member",
+        "crumb": "Team Page",
+        "image": ""
+    },
+    "services": {
+        "title": "Service Page",
+        "crumb": "Service Page",
+        "image": ""
+    },
+    "service_detail": {
+        "title": "",
+        "crumb": "Service Detail",
+        "image": "images/banner/service-d.jpg"
+    },
+    "blog_detail": {
+        "title": "",
+        "crumb": "Blog Detail",
+        "image": "images/banner/blog-d.jpg"
+    },
+    "blog_standard": {
+        "title": "Blog Standard",
+        "crumb": "Blog Standard",
+        "image": ""
+    },
+    "blog_left_sidebar": {
+        "title": "Blog Left Sidebar",
+        "crumb": "Blog Page Sidebar",
+        "image": ""
+    },
+    "blogs": {
+        "title": "Blog Page",
+        "crumb": "Blog Page",
+        "image": ""
+    }
+}

@@ -1,0 +1,2222 @@
+{
+	"home1": {
+		"sectionSlider": {
+			"slides": [
+				{
+					"image": "images/main-slider/slider1/slider1.jpg",
+					"title": "Worry Free IT Solutions for your business",
+					"subtitle": "Pellentesque a arcu tincidunt, sollicitudin eros sed, venenatis justo. Proin sed tellus massa. Nullam bibendum sodales est in faucibus.",
+					"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+				},
+				{
+					"image": "images/main-slider/slider1/slider2.jpg",
+					"title": "We are ready to provide the best IT solutions",
+					"subtitle": "Pulvinar erat placerat vitae. Sed quis aliquet neque. Aenean placerat condimentum lorem non suscipit. Cras tellus tellus, fringilla eu sapien.",
+					"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+				}
+			]
+		},
+		"sectionServices": {
+			"services": [
+				{
+					"icon": "images/icons/1.png",
+					"title": "IT Consultancy",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/2.png",
+					"title": "Backup & Recovery",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/3.png",
+					"title": "Consulting Plan",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/4.png",
+					"title": "IT Management",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/5.png",
+					"title": "Cyber Security",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				}
+			]
+		},
+		"sectionClients": {
+			"clients": [
+				"images/client-logo/w1.png",
+				"images/client-logo/w2.png",
+				"images/client-logo/w3.png",
+				"images/client-logo/w4.png",
+				"images/client-logo/w5.png",
+				"images/client-logo/w6.png",
+				"images/client-logo/w1.png",
+				"images/client-logo/w2.png",
+				"images/client-logo/w3.png",
+				"images/client-logo/w5.png"
+			]
+		},
+		"sectionAbout": {
+			"image": "images/ab-1.jpg",
+			"title": "We Are About Our Company Engineering IT Services.",
+			"description": "<p class=\"p-text\">Nulla et neque id nibh pretium vestibulum vitae euismod nisi. Inside tomopi condimentum dictum odio, sed faucibus enim ornare a. Nunc feugiat extem usto, vestibulum imperdiet ligula mollis vel.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorper porttitor. In nec condimentum ante, sed vestibulum odio. Aliquam justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"mission": "Donec faucibus erat neque, in mortalma consectetu.",
+			"vision": "Donec faucibus erat neque, in mortalma consectetu.",
+			"experience": "20 Years",
+			"visitors": {
+				"time": "Jun 24",
+				"previous": "68k",
+				"current": "120k"
+			},
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+		},
+		"sectionCaseStudy": {
+			"title": "Our Case Study",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"cases": [
+				{
+					"image": "images/case-study/1.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/2.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/3.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/1.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/2.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/3.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/1.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/2.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/3.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/1.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/2.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/3.png",
+					"subtitle": "IT Solution Business Mokup land",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				}
+			]
+		},
+		"sectionPricing": {
+			"title": "Pricing Table",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"plans": [
+				{
+					"saving": 0,
+					"name": "Best Regular Plan",
+					"currency": "$",
+					"price": "00.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app"
+					]
+				},
+				{
+					"saving": 15,
+					"name": "Best Multi Plan",
+					"currency": "$",
+					"price": "10.96",
+					"tenure": "m",
+					"features": [
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management",
+						"Standard Rest Api",
+						"Business hour chat support"
+					]
+				},
+				{
+					"saving": 0,
+					"name": "Best Premium Plan",
+					"currency": "$",
+					"price": "20.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management"
+					]
+				},
+				{
+					"saving": 0,
+					"name": "Best Regular Plan",
+					"currency": "$",
+					"price": "00.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app"
+					]
+				},
+				{
+					"saving": 15,
+					"name": "Best Multi Plan",
+					"currency": "$",
+					"price": "10.96",
+					"tenure": "m",
+					"features": [
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management",
+						"Standard Rest Api",
+						"Business hour chat support"
+					]
+				},
+				{
+					"saving": 0,
+					"name": "Best Premium Plan",
+					"currency": "$",
+					"price": "20.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management"
+					]
+				}
+			]
+		},
+		"sectionWhatWeDo": {
+			"title": "WHAT WE DO!",
+			"subtitle": "We Are Best Our Website Create And Solution In Office.",
+			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorr porttitor. In nec condimentum ante, sed vestibulum odio. Aliqua justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"features": [
+				{
+					"icon": "",
+					"title": "Preparing For Your Success Provide Best IT Solutions"
+				},
+				{
+					"icon": "",
+					"title": "We Team of Experience It Specialties"
+				},
+				{
+					"icon": "",
+					"title": "We Run all kinds of Service that your Success"
+				}
+			],
+			"image1": "images/whatwe/1.jpg",
+			"image2": "images/whatwe/2.jpg",
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU",
+			"delivery": "53k"
+		},
+		"sectionIT": {
+			"title": "IT Solutions",
+			"subtitle": "Preparing For Your Success Provide Best.",
+			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"image": "images/background/itsolu-bg.jpg"
+		},
+		"sectionTestimonials": {
+			"title": "What Client Says?",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"testimonials": [
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic2.png",
+					"name": "Monira T. Mishu",
+					"designation": "CEO Of Figma",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic3.png",
+					"name": "Towkib M. Keple",
+					"designation": "IT Supervisor",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic2.png",
+					"name": "Monira T. Mishu",
+					"designation": "CEO Of Figma",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				}
+			]
+		},
+		"sectionBlog": {
+			"title": "Latest News & Blogs",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"blogs": [
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg1.jpg",
+					"day": "05",
+					"month": "Dec",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg2.jpg",
+					"day": "08",
+					"month": "Feb",
+					"category": "Blog",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg3.jpg",
+					"day": "07",
+					"month": "Feb",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg1.jpg",
+					"day": "05",
+					"month": "Dec",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg2.jpg",
+					"day": "08",
+					"month": "Feb",
+					"category": "Blog",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg3.jpg",
+					"day": "07",
+					"month": "Feb",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				}
+			]
+		},
+		"sectionInstagram": {
+			"images": [
+				"images/insta-gallery/1.jpg",
+				"images/insta-gallery/2.jpg",
+				"images/insta-gallery/3.jpg",
+				"images/insta-gallery/4.jpg",
+				"images/insta-gallery/5.jpg",
+				"images/insta-gallery/6.jpg"
+			]
+		}
+	},
+	"home2": {
+		"sectionSlider": {
+			"slides": [
+				{
+					"image": "images/main-slider/slider2/image1.jpg",
+					"title": "IT Solutions for your business.",
+					"subtitle": "Pellentesque a arcu tincidunt, sollicitudin eros sed, venenatis justo. Proin sed tellus massa. Nullam bibendum sodales est in faucibus."
+				},
+				{
+					"image": "images/main-slider/slider2/image2.jpg",
+					"title": "Best IT solutions guaranteed.",
+					"subtitle": "Pulvinar erat placerat vitae. Sed quis aliquet neque. Aenean placerat condimentum lorem non suscipit. Cras tellus tellus, fringilla eu sapien."
+				}
+			]
+		},
+		"sectionAbout": {
+			"image": "images/ab-3.jpg",
+			"title": "We Are About Our Company Engineering IT Services.",
+			"description": "<p class=\"p-text\">Nulla et neque id nibh pretium vestibulum vitae euismod nisi. Inside tomopi condimentum dictum odio, sed faucibus enim ornare a. Nunc feugiat extem usto, vestibulum imperdiet ligula mollis vel.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorper porttitor. In nec condimentum ante, sed vestibulum odio. Aliquam justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"mission": "Donec faucibus erat neque, in mortalma consectetu.",
+			"vision": "Donec faucibus erat neque, in mortalma consectetu.",
+			"experience": "20 Years",
+			"visitors": {
+				"time": "Jun 24",
+				"previous": "68k",
+				"current": "120k"
+			},
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+		},
+		"sectionClients": {
+			"clients": [
+				"images/client-logo/w1.png",
+				"images/client-logo/w2.png",
+				"images/client-logo/w3.png",
+				"images/client-logo/w4.png",
+				"images/client-logo/w5.png",
+				"images/client-logo/w6.png",
+				"images/client-logo/w1.png",
+				"images/client-logo/w2.png",
+				"images/client-logo/w3.png",
+				"images/client-logo/w5.png"
+			]
+		},
+		"sectionServices": {
+			"services": [
+				{
+					"icon": "images/icons/1.png",
+					"title": "Branding & Design Service",
+					"count": "01"
+				},
+				{
+					"icon": "images/icons/2.png",
+					"title": "Advertising and marketing",
+					"count": "02"
+				},
+				{
+					"icon": "images/icons/3.png",
+					"title": "Web Development & Consulting",
+					"count": "03"
+				},
+				{
+					"icon": "images/icons/4.png",
+					"title": "Digital IT Consultancy Service",
+					"count": "04"
+				},
+				{
+					"icon": "images/icons/5.png",
+					"title": "Business Consultant & Support",
+					"count": "05"
+				},
+				{
+					"icon": "images/icons/6.png",
+					"title": "Market Research & SEO Service",
+					"count": "06"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Branding & Design Service",
+					"count": "01"
+				},
+				{
+					"icon": "images/icons/2.png",
+					"title": "Advertising and marketing",
+					"count": "02"
+				},
+				{
+					"icon": "images/icons/3.png",
+					"title": "Web Development & Consulting",
+					"count": "03"
+				},
+				{
+					"icon": "images/icons/4.png",
+					"title": "Digital IT Consultancy Service",
+					"count": "04"
+				},
+				{
+					"icon": "images/icons/5.png",
+					"title": "Business Consultant & Support",
+					"count": "05"
+				},
+				{
+					"icon": "images/icons/6.png",
+					"title": "Market Research & SEO Service",
+					"count": "06"
+				}
+			]
+		},
+		"sectionCaseStudy": {
+			"title": "Our Case Study",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"cases": [
+				{
+					"image": "images/case-study/grid-pic/1.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/2.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/3.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/4.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/5.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/6.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				}
+			]
+		},
+		"sectionTestimonials": {
+			"testimonials": [
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic2.png",
+					"name": "Monira T. Mishu",
+					"designation": "CEO Of Figma",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic3.png",
+					"name": "Towkib M. Keple",
+					"designation": "IT Supervisor",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				}
+			]
+		},
+		"sectionTeam": {
+			"title": "Our Team Members",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"members": [
+				{
+					"image": "images/team/1.jpg",
+					"name": "Devid L. Musilal",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/2.jpg",
+					"name": "Miskal M. Diviska",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/3.jpg",
+					"name": "Hisakial Monalo",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/4.jpg",
+					"name": "Nadrisa Farhan",
+					"designation": "Managing Director"
+				}
+			]
+		},
+		"sectionFAQ": {
+			"title": "Frequency And Questions Provide.",
+			"subtitle": "Proin pharetra a ligula et malesuada. Pellentesque faucibus nisl mauris. Integer a odio semper, consequat enim ut, iaculis justo.",
+			"image": "images/faq-pic.png",
+			"faqs": [
+				{
+					"que": "What can we do for you with Figma?",
+					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit, vitae laoreet leo diam vitae quam. Curabitur dignissim nisi sed libero pellentesque hendrerit. Morbi condimentum in elit in lobortis."
+				},
+				{
+					"que": "What is the standard size of business cards?",
+					"ans": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin Vivamus neque urna, iaculis et orci id, euismod tempor arcu semper congue nulla amet finibus."
+				},
+				{
+					"que": "What can we do for you with Adobe Photoshop & Figma?",
+					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit pellentesque hendrerit. Morbi condimentum in elit in lobortis. Maurisvit velit erat. Nunc in urna sit amet nisi venenatis listed on a business card."
+				},
+				{
+					"que": "Do you create one single full home page?",
+					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit pellentesque hendrerit. Morbi condimentum in elit in lobortis. Maurisvit velit erat. Nunc in urna sit amet nisi venenatis listed on a business card."
+				}
+			]
+		},
+		"sectionPricing": {
+			"title": "Pricing Table",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"plans": [
+				{
+					"saving": 0,
+					"name": "Best Regular Plan",
+					"currency": "$",
+					"price": "00.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form"
+					]
+				},
+				{
+					"saving": 15,
+					"name": "Best Multi Plan",
+					"currency": "$",
+					"price": "10.96",
+					"tenure": "m",
+					"features": [
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app"
+					]
+				},
+				{
+					"saving": 0,
+					"name": "Best Premium Plan",
+					"currency": "$",
+					"price": "20.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form"
+					]
+				}
+			]
+		},
+		"sectionWhatWeDo": {
+			"title": "WHAT WE DO!",
+			"subtitle": "We Are Best Our Website Create And Solution In Office.",
+			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p>",
+			"features": [
+				{
+					"icon": "images/icons/2.png",
+					"title": "Advertising and marketing"
+				},
+				{
+					"icon": "images/icons/4.png",
+					"title": "IT Ideation & Evaluation"
+				},
+				{
+					"icon": "images/icons/3.png",
+					"title": "Analytic Media App solutions"
+				},
+				{
+					"icon": "images/icons/7.png",
+					"title": "Benefit Co-Working Project\r\n"
+				}
+			],
+			"image1": "images/whatwe/3.jpg",
+			"image2": "images/whatwe/4.jpg",
+			"delivery": "53k"
+		},
+		"sectionInstagram": {
+			"images": [
+				"images/insta-gallery/1.jpg",
+				"images/insta-gallery/2.jpg",
+				"images/insta-gallery/3.jpg",
+				"images/insta-gallery/4.jpg",
+				"images/insta-gallery/5.jpg",
+				"images/insta-gallery/6.jpg"
+			]
+		},
+		"sectionBlog": {
+			"title": "Latest News & Blogs",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"blogs": [
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg1.jpg",
+					"day": "05",
+					"month": "Dec",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg2.jpg",
+					"day": "08",
+					"month": "Feb",
+					"category": "Blog",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg3.jpg",
+					"day": "07",
+					"month": "Feb",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg1.jpg",
+					"day": "05",
+					"month": "Dec",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg2.jpg",
+					"day": "08",
+					"month": "Feb",
+					"category": "Blog",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg3.jpg",
+					"day": "07",
+					"month": "Feb",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				}
+			]
+		}
+	},
+	"home3": {
+		"sectionSlider": {
+			"slides": [
+				{
+					"image": "images/main-slider/slider3/image1.jpg",
+					"title": "IT Solutions for your business.",
+					"subtitle": "Pellentesque a arcu tincidunt, sollicitudin eros sed, venenatis justo. Proin sed tellus massa. Nullam bibendum sodales est in faucibus."
+				},
+				{
+					"image": "images/main-slider/slider3/image2.jpg",
+					"title": "Best IT solutions guaranteed.",
+					"subtitle": "Pulvinar erat placerat vitae. Sed quis aliquet neque. Aenean placerat condimentum lorem non suscipit. Cras tellus tellus, fringilla eu sapien."
+				}
+			]
+		},
+		"sectionServices": {
+			"services": [
+				{
+					"icon": "images/icons/1.png",
+					"title": "Branding & Design Service",
+					"count": "01"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Advertising and marketing",
+					"count": "02"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Web Development & Consulting",
+					"count": "03"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Digital IT Consultancy Service",
+					"count": "04"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Business Consultant & Support",
+					"count": "05"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Market Research & SEO Service",
+					"count": "06"
+				}
+			]
+		},
+		"sectionSkills": {
+			"title": "My Skills",
+			"subtitle": "The Skills I Have So Far And The Market For My Skills.",
+			"description1": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p> <p class=\"p-text\">Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p>",
+			"description2": "<p class=\"p-text\"> Cusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae. Fusce ut nunc ultricies. </p>",
+			"clients": [
+				"images/client-logo/w1.png",
+				"images/client-logo/w2.png",
+				"images/client-logo/w3.png",
+				"images/client-logo/w4.png",
+				"images/client-logo/w5.png",
+				"images/client-logo/w6.png",
+				"images/client-logo/w7.png"
+			],
+			"skills": [
+				{
+					"title": "Content Strategy",
+					"percent": 70
+				},
+				{
+					"title": "High Performance",
+					"percent": 80
+				},
+				{
+					"title": "Customer Support",
+					"percent": 65
+				}
+			]
+		},
+		"sectionCaseStudy": {
+			"title": "Our Case Study",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"cases": [
+				{
+					"image": "images/case-study/grid-pic/1.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/2.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/3.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/4.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/5.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				},
+				{
+					"image": "images/case-study/grid-pic/6.jpg",
+					"subtitle": "Software Management",
+					"categories": [
+						"Marketing",
+						"Software"
+					]
+				}
+			]
+		},
+		"sectionAbout": {
+			"image": "images/ab-3.jpg",
+			"title": "We Are About Our Company Engineering IT Services.",
+			"description": "<p class=\"p-text\">Nulla et neque id nibh pretium vestibulum vitae euismod nisi. Inside tomopi condimentum dictum odio, sed faucibus enim ornare a. Nunc feugiat extem usto, vestibulum imperdiet ligula mollis vel.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorper porttitor. In nec condimentum ante, sed vestibulum odio. Aliquam justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"mission": "Donec faucibus erat neque, in mortalma consectetu.",
+			"vision": "Donec faucibus erat neque, in mortalma consectetu.",
+			"experience": "20 Years",
+			"visitors": {
+				"time": "Jun 24",
+				"previous": "68k",
+				"current": "120k"
+			},
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+		},
+		"sectionTeam": {
+			"title": "Our Team Members",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"members": [
+				{
+					"image": "images/team/1.jpg",
+					"name": "Devid L. Musilal",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/2.jpg",
+					"name": "Miskal M. Diviska",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/3.jpg",
+					"name": "Hisakial Monalo",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/4.jpg",
+					"name": "Nadrisa Farhan",
+					"designation": "Managing Director"
+				}
+			]
+		},
+		"sectionIT": {
+			"title": "IT Solutions",
+			"subtitle": "Preparing For Your Success Provide Best.",
+			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"image": "images/background/itsolu-bg.jpg"
+		},
+		"sectionTestimonials": {
+			"title": "What Client Says?",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"testimonials": [
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic2.png",
+					"name": "Monira T. Mishu",
+					"designation": "CEO Of Figma",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic3.png",
+					"name": "Towkib M. Keple",
+					"designation": "IT Supervisor",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic2.png",
+					"name": "Monira T. Mishu",
+					"designation": "CEO Of Figma",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				}
+			]
+		},
+		"sectionWhatWeDo": {
+			"title": "WHAT WE DO!",
+			"subtitle": "We Are Best Our Website Create And Solution In Office.",
+			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorr porttitor. In nec condimentum ante, sed vestibulum odio. Aliqua justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"features": [
+				{
+					"icon": "",
+					"title": "Preparing For Your Success Provide Best IT Solutions"
+				},
+				{
+					"icon": "",
+					"title": "We Team of Experience It Specialties"
+				},
+				{
+					"icon": "",
+					"title": "We Run all kinds of Service that your Success"
+				}
+			],
+			"image1": "images/whatwe/1.jpg",
+			"image2": "images/whatwe/2.jpg",
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU",
+			"delivery": "53k"
+		},
+		"sectionBlog": {
+			"title": "Latest News & Blogs",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"blogs": [
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg1.jpg",
+					"day": "05",
+					"month": "Dec",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg2.jpg",
+					"day": "08",
+					"month": "Feb",
+					"category": "Blog",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg3.jpg",
+					"day": "07",
+					"month": "Feb",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg1.jpg",
+					"day": "05",
+					"month": "Dec",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg2.jpg",
+					"day": "08",
+					"month": "Feb",
+					"category": "Blog",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				},
+				{
+					"type": "image",
+					"image": "images/blog/latest/bg3.jpg",
+					"day": "07",
+					"month": "Feb",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent euismod lorem aquri purus placerat.",
+					"comments": "23",
+					"views": "503"
+				}
+			]
+		}
+	},
+	"about": {
+		"sectionAbout": {
+			"image": "images/ab-3.jpg",
+			"title": "We Are About Our Company Engineering IT Services.",
+			"description": "<p class=\"p-text\">Nulla et neque id nibh pretium vestibulum vitae euismod nisi. Inside tomopi condimentum dictum odio, sed faucibus enim ornare a. Nunc feugiat extem usto, vestibulum imperdiet ligula mollis vel.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorper porttitor. In nec condimentum ante, sed vestibulum odio. Aliquam justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"mission": "Donec faucibus erat neque, in mortalma consectetu.",
+			"vision": "Donec faucibus erat neque, in mortalma consectetu.",
+			"experience": "20 Years",
+			"visitors": {
+				"time": "Jun 24",
+				"previous": "68k",
+				"current": "120k"
+			},
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+		},
+		"sectionTeam": {
+			"title": "Our Team Members",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"members": [
+				{
+					"image": "images/team/1.jpg",
+					"name": "Devid L. Musilal",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/2.jpg",
+					"name": "Miskal M. Diviska",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/3.jpg",
+					"name": "Hisakial Monalo",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/4.jpg",
+					"name": "Nadrisa Farhan",
+					"designation": "Managing Director"
+				}
+			]
+		},
+		"sectionIT": {
+			"title": "IT Solutions",
+			"subtitle": "Preparing For Your Success Provide Best.",
+			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"image": "images/background/itsolu-bg.jpg"
+		},
+		"sectionPricing": {
+			"title": "Pricing Table",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"plans": [
+				{
+					"saving": 0,
+					"name": "Best Regular Plan",
+					"currency": "$",
+					"price": "00.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app"
+					]
+				},
+				{
+					"saving": 15,
+					"name": "Best Multi Plan",
+					"currency": "$",
+					"price": "10.96",
+					"tenure": "m",
+					"features": [
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management",
+						"Standard Rest Api",
+						"Business hour chat support"
+					]
+				},
+				{
+					"saving": 0,
+					"name": "Best Premium Plan",
+					"currency": "$",
+					"price": "20.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management"
+					]
+				}
+			]
+		},
+		"sectionWhatWeDo": {
+			"title": "WHAT WE DO!",
+			"subtitle": "We Are Best Our Website Create And Solution In Office.",
+			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorr porttitor. In nec condimentum ante, sed vestibulum odio. Aliqua justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"features": [
+				{
+					"icon": "",
+					"title": "Preparing For Your Success Provide Best IT Solutions"
+				},
+				{
+					"icon": "",
+					"title": "We Team of Experience It Specialties"
+				},
+				{
+					"icon": "",
+					"title": "We Run all kinds of Service that your Success"
+				}
+			],
+			"image1": "images/whatwe/1.jpg",
+			"image2": "images/whatwe/2.jpg",
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU",
+			"delivery": "53k"
+		},
+		"sectionServices": {
+			"services": [
+				{
+					"icon": "images/icons/1.png",
+					"title": "Branding & Design Service",
+					"count": "01"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Advertising and marketing",
+					"count": "02"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Web Development & Consulting",
+					"count": "03"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Digital IT Consultancy Service",
+					"count": "04"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Business Consultant & Support",
+					"count": "05"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Market Research & SEO Service",
+					"count": "06"
+				}
+			]
+		}
+	},
+	"services": {
+		"sectionServices": {
+			"services": [
+				{
+					"icon": "images/icons/1.png",
+					"title": "IT Consultancy",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/2.png",
+					"title": "Backup & Recovery",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/3.png",
+					"title": "Consulting Plan",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/4.png",
+					"title": "IT Management",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				},
+				{
+					"icon": "images/icons/5.png",
+					"title": "Cyber Security",
+					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+				}
+			]
+		},
+		"sectionWhatWeDo": {
+			"title": "WHAT WE DO!",
+			"subtitle": "We Are Best Our Website Create And Solution In Office.",
+			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorr porttitor. In nec condimentum ante, sed vestibulum odio. Aliqua justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"features": [
+				{
+					"icon": "",
+					"title": "Preparing For Your Success Provide Best IT Solutions"
+				},
+				{
+					"icon": "",
+					"title": "We Team of Experience It Specialties"
+				},
+				{
+					"icon": "",
+					"title": "We Run all kinds of Service that your Success"
+				}
+			],
+			"image1": "images/whatwe/1.jpg",
+			"image2": "images/whatwe/2.jpg",
+			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU",
+			"delivery": "53k"
+		},
+		"sectionIT": {
+			"title": "IT Solutions",
+			"subtitle": "Preparing For Your Success Provide Best.",
+			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"image": "images/background/itsolu-bg.jpg"
+		},
+		"sectionTeam": {
+			"title": "Our Team Members",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"members": [
+				{
+					"image": "images/team/1.jpg",
+					"name": "Devid L. Musilal",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/2.jpg",
+					"name": "Miskal M. Diviska",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/3.jpg",
+					"name": "Hisakial Monalo",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/4.jpg",
+					"name": "Nadrisa Farhan",
+					"designation": "Managing Director"
+				}
+			]
+		},
+		"sectionTestimonials": {
+			"testimonials": [
+				{
+					"image": "images/client/pic1.png",
+					"name": "Mango M. Keple",
+					"designation": "Managing Director",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic2.png",
+					"name": "Monira T. Mishu",
+					"designation": "CEO Of Figma",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic3.png",
+					"name": "Towkib M. Keple",
+					"designation": "IT Supervisor",
+					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+					"reviews": "113",
+					"rating": "5"
+				}
+			]
+		}
+	},
+	"caseStudy": {
+		"cases": [
+			{
+				"image": "images/case-study/landscape/1.jpg",
+				"subtitle": "UI/UX creative design",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/2.jpg",
+				"subtitle": "Software Management",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/3.jpg",
+				"subtitle": "Digital marketing",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/4.jpg",
+				"subtitle": "Customer support",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/5.jpg",
+				"subtitle": "Infrastructure Plan",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/6.jpg",
+				"subtitle": "Firewall Advance",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/7.jpg",
+				"subtitle": "Cyber Security",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/8.jpg",
+				"subtitle": "UX/UI Strategy",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			},
+			{
+				"image": "images/case-study/landscape/9.jpg",
+				"subtitle": "Web Marketing",
+				"categories": [
+					"Marketing",
+					"Software"
+				]
+			}
+		]
+	},
+	"caseDetail": {
+		"content": {
+			"categories": [
+				"Marketing",
+				"Software"
+			],
+			"title": "Software Management",
+			"detail": "<p className=\"p-text\">In nibh felis, efficitur a dignissim a, posuere dignissim risus. Vestibulum ornare tellus tincidunt neque rhoncus, ut ultri Hincidunt. Maecenas condimentum in nisl at dignissim. Cras volutpat feugiat augue ac iaculis. Integer ac metus id neq ehicula. In hac habitasse platea dictumst. Praesent rhoncus nisl sed dignissim posuere. Quisque eleifend commodo Sed convallis felis nec nunc posuere sodales. utrum orci felis malesuada lacus.</p><p className=\"p-text\">Pellentesque dignissim felis rutrum lorem commodo, quis fermentum neque imperdiet. Pellentesque habitant morbi senectus et netus et malesuada fames ac turpis egestas. Nullam quis dapibus dolor. Phasellus quis molestie tortor. Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis</p><h3 className=\"av-large-s-title\">For better charity event planning, implement these steps to maximize both attendance and monetary donations.</h3><p className=\"p-text\">Praesent consequat, velit in iaculis efficitur, dui diam elementum quam, vitae ultrices metus libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis pharetra. Mauris viverra metus ac ex consectetur rhoncus. Nullam tellus turpis, auctor non risus vitae, posuere lacinia sapien.</p><div className=\"av-list3\"><ul><li>Opting for a single-plate meal as opposed to a buffet, or sticking to light.</li><li>Entertainment “ instead of hiring a professional, look for one to his time.</li><li>“ limit swag to small items that can be quantity at a low cost keychains.</li></ul></div><p className=\"p-text\">Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis viverra metus ac ex consectetur rhoncus. Nullam tellus turpis, auctor non risus vitae, posuere sapien.</p>"
+		},
+		"pagination": {
+			"prev": "Cloud Services Megose",
+			"next": "Placent To Rated Blog"
+		},
+		"event": {
+			"time": "8:00AM to 5:00PM",
+			"date": "05 July, 2024",
+			"categories": "Charity, Food",
+			"phone": "+99 00 555 444",
+			"website": "Info@charity.com",
+			"location": "City club, Mirpur Dohs, BD"
+		}
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"image": "images/client/pic1.png",
+				"name": "Mango M. Keple",
+				"designation": "Managing Director",
+				"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+				"reviews": "113",
+				"rating": "5"
+			},
+			{
+				"image": "images/client/pic2.png",
+				"name": "Monira T. Mishu",
+				"designation": "CEO Of Figma",
+				"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+				"reviews": "113",
+				"rating": "5"
+			},
+			{
+				"image": "images/client/pic3.png",
+				"name": "Towkib M. Keple",
+				"designation": "IT Supervisor",
+				"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+				"reviews": "113",
+				"rating": "5"
+			},
+			{
+				"image": "images/client/pic1.png",
+				"name": "Mango M. Keple",
+				"designation": "Managing Director",
+				"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+				"reviews": "113",
+				"rating": "5"
+			},
+			{
+				"image": "images/client/pic2.png",
+				"name": "Monira T. Mishu",
+				"designation": "CEO Of Figma",
+				"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+				"reviews": "113",
+				"rating": "5"
+			},
+			{
+				"image": "images/client/pic1.png",
+				"name": "Mango M. Keple",
+				"designation": "Managing Director",
+				"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
+				"reviews": "113",
+				"rating": "5"
+			}
+		]
+	},
+	"pricing": {
+		"sectionPricing": {
+			"title": "Pricing Table",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"plans": [
+				{
+					"saving": 0,
+					"name": "Best Regular Plan",
+					"currency": "$",
+					"price": "00.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app"
+					]
+				},
+				{
+					"saving": 15,
+					"name": "Best Multi Plan",
+					"currency": "$",
+					"price": "10.96",
+					"tenure": "m",
+					"features": [
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management",
+						"Standard Rest Api",
+						"Business hour chat support"
+					]
+				},
+				{
+					"saving": 0,
+					"name": "Best Premium Plan",
+					"currency": "$",
+					"price": "20.96",
+					"tenure": "m",
+					"features": [
+						"Unlimited paid ticket",
+						"Google analytics integration",
+						"Customizable registration",
+						"500 Email invitations event",
+						"Event reminders",
+						"Registration form",
+						"Payment with mobile app",
+						"Speaker management"
+					]
+				}
+			]
+		},
+		"sectionIT": {
+			"title": "IT Solutions",
+			"subtitle": "Preparing For Your Success Provide Best.",
+			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"image": "images/background/itsolu-bg.jpg"
+		},
+		"sectionWhatWeDo": {
+			"title": "WHAT WE DO!",
+			"subtitle": "We Are Best Our Website Create And Solution In Office.",
+			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p>",
+			"features": [
+				{
+					"icon": "images/icons/2.png",
+					"title": "Advertising and marketing"
+				},
+				{
+					"icon": "images/icons/4.png",
+					"title": "IT Ideation & Evaluation"
+				},
+				{
+					"icon": "images/icons/3.png",
+					"title": "Analytic Media App solutions"
+				},
+				{
+					"icon": "images/icons/7.png",
+					"title": "Benefit Co-Working Project\r\n"
+				}
+			],
+			"image1": "images/whatwe/3.jpg",
+			"image2": "images/whatwe/4.jpg",
+			"delivery": "53k"
+		},
+		"sectionTeam": {
+			"title": "Our Team Members",
+			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"members": [
+				{
+					"image": "images/team/1.jpg",
+					"name": "Devid L. Musilal",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/2.jpg",
+					"name": "Miskal M. Diviska",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/3.jpg",
+					"name": "Hisakial Monalo",
+					"designation": "Managing Director"
+				},
+				{
+					"image": "images/team/4.jpg",
+					"name": "Nadrisa Farhan",
+					"designation": "Managing Director"
+				}
+			]
+		}
+	},
+	"faq": {
+		"sectionFAQ": {
+			"title": "Frequency And Questions Provide.",
+			"subtitle": "Proin pharetra a ligula et malesuada. Pellentesque faucibus nisl mauris. Integer a odio semper, consequat enim ut, iaculis justo.",
+			"image": "images/faq-pic.png",
+			"faqs": [
+				{
+					"que": "What can we do for you with Figma?",
+					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit, vitae laoreet leo diam vitae quam. Curabitur dignissim nisi sed libero pellentesque hendrerit. Morbi condimentum in elit in lobortis."
+				},
+				{
+					"que": "What is the standard size of business cards?",
+					"ans": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin Vivamus neque urna, iaculis et orci id, euismod tempor arcu semper congue nulla amet finibus."
+				},
+				{
+					"que": "What can we do for you with Adobe Photoshop & Figma?",
+					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit pellentesque hendrerit. Morbi condimentum in elit in lobortis. Maurisvit velit erat. Nunc in urna sit amet nisi venenatis listed on a business card."
+				},
+				{
+					"que": "Do you create one single full home page?",
+					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit pellentesque hendrerit. Morbi condimentum in elit in lobortis. Maurisvit velit erat. Nunc in urna sit amet nisi venenatis listed on a business card."
+				}
+			]
+		},
+		"sectionFAQContact": {
+			"phone": "+55 (9900) 666 22",
+			"email": "info.mirpur@gmail.com",
+			"location": "14/4, Bonosri, United States.",
+			"phone_subtitle": "Nunc dolor mauris, hendrerit amet felis in, interdum rhoncus.",
+			"email_subtitle": "Nunc dolor mauris, hendrerit amet felis in, interdum rhoncus.",
+			"location_subtitle": "Nunc dolor mauris, hendrerit amet felis in, interdum rhoncus."
+		}
+	},
+	"contact": {
+		"sectionContact": {
+			"title": "Contact Us",
+			"subtitle": "Have Questions? Get in Touch!",
+			"description1": "<p className=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p>",
+			"description2": "<p className=\"p-text\">Cusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae. Fusce ut nunc ultricies.</p>",
+			"contact": {
+				"phone": "(1)245-45678",
+				"email": "help.info@gmail.com",
+				"location": "Mirpur 12, Block C, Dhaka, BD.",
+				"phone_subtitle": "",
+				"email_subtitle": "",
+				"location_subtitle": ""
+			}
+		}
+	},
+	"team": {
+		"members": [
+			{
+				"image": "images/team/1.jpg",
+				"name": "Devid L. Musilal",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/2.jpg",
+				"name": "Miskal M. Diviska",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/3.jpg",
+				"name": "Hisakial Monalo",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/4.jpg",
+				"name": "Nadrisa Farhan",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/5.jpg",
+				"name": "Devid L. Musilal",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/6.jpg",
+				"name": "Miskal M. Diviska",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/7.jpg",
+				"name": "Hisakial Monalo",
+				"designation": "Managing Director"
+			},
+			{
+				"image": "images/team/8.jpg",
+				"name": "Nadrisa Farhan",
+				"designation": "Managing Director"
+			}
+		]
+	},
+	"blogs": {
+		"blogs": [
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg1.jpg",
+				"day": "05",
+				"month": "Dec",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg2.jpg",
+				"day": "08",
+				"month": "Feb",
+				"category": "Blog",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg3.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg4.jpg",
+				"day": "05",
+				"month": "Dec",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg5.jpg",
+				"day": "08",
+				"month": "Feb",
+				"category": "Blog",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg6.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg7.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg8.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg9.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			}
+		]
+	},
+	"blogsSidebar": {
+		"blogs": [
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg1.jpg",
+				"day": "05",
+				"month": "Dec",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg2.jpg",
+				"day": "08",
+				"month": "Feb",
+				"category": "Blog",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg3.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg4.jpg",
+				"day": "05",
+				"month": "Dec",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg5.jpg",
+				"day": "08",
+				"month": "Feb",
+				"category": "Blog",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg6.jpg",
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			}
+		],
+		"sidebar": {
+			"services": [
+				"UX strategy",
+				"Information architecture",
+				"Prototyping",
+				"Wireframing",
+				"UI Design",
+				"Figma Design"
+			],
+			"news": [
+				{
+					"image": "images/blog/news-blog/pic1.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				},
+				{
+					"image": "images/blog/news-blog/pic2.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				},
+				{
+					"image": "images/blog/news-blog/pic3.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				}
+			]
+		}
+	},
+	"blogsStandardSidebar": {
+		"blogs": [
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg3.jpg",
+				"video": {},
+				"audio": {},
+				"day": "05",
+				"month": "Dec",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg4.jpg",
+				"video": {},
+				"audio": {},
+				"day": "08",
+				"month": "Feb",
+				"category": "Blog",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "audio",
+				"image": "",
+				"video": {},
+				"audio": [
+					{
+						"album": "Dawn",
+						"trackName": "Skylike - Dawn",
+						"albumArt": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg",
+						"track": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/2.mp3"
+					},
+					{
+						"album": "Me & You",
+						"trackName": "Alex Skrindo - Me & You",
+						"albumArt": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_2.jpg",
+						"track": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3"
+					},
+					{
+						"album": "Electro Boy",
+						"trackName": "Kaaze - Electro Boy",
+						"albumArt": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_3.jpg",
+						"track": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3"
+					},
+					{
+						"album": "Home",
+						"trackName": "Jordan Schor - Home",
+						"albumArt": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_4.jpg",
+						"track": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3"
+					},
+					{
+						"album": "Proxy (Original Mix)",
+						"trackName": "Martin Garrix - Proxy",
+						"albumArt": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_5.jpg",
+						"track": "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+					}
+				],
+				"day": "07",
+				"month": "Feb",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "video",
+				"image": "",
+				"video": {
+					"thumb": "images/blog/latest/bg4.jpg",
+					"link": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+				},
+				"audio": {},
+				"day": "05",
+				"month": "Dec",
+				"category": "News",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			},
+			{
+				"type": "image",
+				"image": "images/blog/latest/bg6.jpg",
+				"video": {},
+				"audio": {},
+				"day": "08",
+				"month": "Feb",
+				"category": "Blog",
+				"author": "Towkib Tanvir",
+				"title": "Praesent euismod lorem aquri purus placerat.",
+				"comments": "23",
+				"views": "503"
+			}
+		],
+		"sidebar": {
+			"services": [
+				"UX strategy",
+				"Information architecture",
+				"Prototyping",
+				"Wireframing",
+				"UI Design",
+				"Figma Design"
+			],
+			"news": [
+				{
+					"image": "images/blog/news-blog/pic1.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				},
+				{
+					"image": "images/blog/news-blog/pic2.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				},
+				{
+					"image": "images/blog/news-blog/pic3.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				}
+			]
+		}
+	},
+	"blogDetailSidebar": {
+		"content": {
+			"category": "Blog",
+			"author": "Towkib Tanvir",
+			"day": "05",
+			"month": "Dec",
+			"title": "Praesent euismod lorem aquri purus placerat Enterprise Business Management Software.",
+			"detail": "<p class=\"p-text\"> In nibh felis, efficitur a dignissim a, posuere dignissim risus. Vestibulum ornare tellus tincidunt neque rhoncus, ut ultri Hincidunt. Maecenas condimentum in nisl at dignissim. Cras volutpat feugiat augue ac iaculis. Integer ac metus id neq ehicula. In hac habitasse platea dictumst. Praesent rhoncus nisl sed dignissim posuere. Quisque eleifend commodo Sed convallis felis nec nunc posuere sodales.utrum orci felis malesuada lacus. </p> <p class=\"p-text\"> Pellentesque dignissim felis rutrum lorem commodo, quis fermentum neque imperdiet. Pellentesque habitant morbi senectus et netus et malesuada fames ac turpis egestas. Nullam quis dapibus dolor. Phasellus quis molestie tortor. Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis </p> <p class=\"p-text\"> Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis viverra metus ac ex consectetur rhoncus. Nullam tellus turpis, auctor non risus vitae, posuere sapien. </p> <blockquote class=\"author-quote\"> <div class=\"av-bq-media\"> <i class=\"fa fa-quote-left\"></i> </div> <div class=\"av-bq-content\">Tempus massa ac arcu sollicitudin sollicitudin vivamus neque urna, iaculis et orci id to your hospital phasellus ac consequat turpis, sit amet fermentum nulla. donec dignissim augue nunc.</div> </blockquote> <p class=\"p-text\"> Praesent consequat, velit in iaculis efficitur, dui diam elementum quam, vitae ultrices metus libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis pharetra. Mauris viverra metus ac ex consectetur rhoncus. Nullam tellus turpis, auctor non risus vitae, posuere lacinia sapien. </p> <p class=\"p-text\"> Pellentesque dignissim felis rutrum lorem commodo, quis fermentum neque imperdiet. Pellentesque habitant morbi senectus et netus et malesuada fames ac turpis egestas. Nullam quis dapibus dolor. Phasellus quis molestie tortor. Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis </p> <div class=\"av-list3\"> <ul> <li>Opting for a single-plate meal as opposed to a buffet, or sticking to light.</li> <li>Entertainment � instead of hiring a professional, look for one to his time.</li> <li>� limit swag to small items that can be quantity at a low cost keychains.</li> </ul> </div> <p class=\"p-text\"> Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis viverra metus ac ex consectetur rhoncus. Nullam tellus turpis, auctor non risus vitae, posuere sapien. </p> <p class=\"p-text\"> Pellentesque dignissim felis rutrum lorem commodo, quis fermentum neque imperdiet. Pellentesque habitant morbi senectus et netus et malesuada fames ac turpis egestas. Nullam quis dapibus dolor. Phasellus quis molestie tortor. Libero id felis. Curabitur tincidunt ornare efficitur. Morbi eget lectus ligula. Nam imperdiet ligula in neque facilisis </p>"
+		},
+		"author": {
+			"image": "images/blog/single/avatar.jpg",
+			"name": "Towkibu Rahman",
+			"about": "Fusce condimentum enim vestibulum libero gravida, ut accumsan quam bibendum. Curabitur gravida faucibus est sit amet cursus. Duis accumsan vel arcu pretium viverra enim vestibulum libero.",
+			"fb": "https://www.facebook.com/",
+			"x": "https://www.x.com/",
+			"insta": "https://www.instagram.com/",
+			"lin": "https://in.linkedin.com/"
+		},
+		"pagination": {
+			"prev": "Cloud Services Megose",
+			"next": "Placent To Rated Blog"
+		},
+		"sidebar": {
+			"services": [
+				"UX strategy",
+				"Information architecture",
+				"Prototyping",
+				"Wireframing",
+				"UI Design",
+				"Figma Design"
+			],
+			"news": [
+				{
+					"image": "images/blog/news-blog/pic1.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				},
+				{
+					"image": "images/blog/news-blog/pic2.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				},
+				{
+					"image": "images/blog/news-blog/pic3.jpg",
+					"category": "News",
+					"author": "Towkib Tanvir",
+					"title": "Praesent Euismod Lorem Aquri Purus Placerat."
+				}
+			]
+		},
+		"comments": {
+			"count": "02",
+			"comments": [
+				{
+					"initial": {
+						"image": "images/blog/comment/pic1.jpg",
+						"name": "Monsur Rahman Lito",
+						"comment": "Phasellus ac consequat turpis, sit amet fermentum nulla. Donec dignissim augue nunc. Praesent bibendum erat ac lectus molestie lobortis."
+					},
+					"reply": [
+						{
+							"image": "images/blog/comment/pic2.jpg",
+							"name": "Towkibur Rahman",
+							"comment": "Phasellus ac consequat turpis, sit amet fermentum nulla. Donec dignissim augue nunc. Praesent bibendum erat ac lectus molestie lobortis."
+						}
+					]
+				}
+			]
+		}
+	}
+}
