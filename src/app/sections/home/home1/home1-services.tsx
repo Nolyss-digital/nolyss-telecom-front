@@ -5,9 +5,8 @@
 import { NavLink } from "react-router-dom";
 import { navUrl } from "../../../../globals/common-functions";
 import { SECTION_THEME, route } from "../../../../globals/constants";
-import { TypeSectionClients, TypeSectionServices } from "../../../@types/sectionTypes";
+import { TypeSectionServices } from "../../../@types/sectionTypes";
 import AvertImage from "../../../../globals/elements/avertimg";
-import SectionHome1Clients from "./home1-clients";
 
 /**
  * 
@@ -17,11 +16,10 @@ import SectionHome1Clients from "./home1-clients";
 const SectionHome1Services = (
     props: {
         _services: TypeSectionServices,
-        _clients?: TypeSectionClients,
         _background?: SECTION_THEME
     }
 ) => {
-    const { _services, _clients, _background } = props;
+    const { _services,_background } = props;
 
     // gray back (default)
     var outerBackgroundClass = "p-b90 site-bg-gray";
@@ -60,12 +58,7 @@ const SectionHome1Services = (
                             })
                         }
                     </div>
-                    {/* {
-                        _clients &&
-                        <div className="av-client-slider1 p-t50 p-b20 site-bg-white">
-                            <SectionHome1Clients _clients={_clients!} />
-                        </div>
-                    } */}
+                   
                 </div>
             </div>
         </div>

@@ -7,7 +7,6 @@ import { useState } from "react";
 import ScrollToTop from "./globals/scroll-to-top";
 import Loader from "./globals/elements/loader";
 import RootLayout from "./layouts/root-layout";
-import AppRoutes from "./routing/app-routes";
 
 /**
  * 

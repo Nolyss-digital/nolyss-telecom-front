@@ -53,7 +53,7 @@ const Home1Page = () => {
                 (results.services && results.clients)  &&
                 <SectionHome1Services
                     _services={results.services!}
-                    _clients={results.clients!}
+                  
                 />
             }
 
