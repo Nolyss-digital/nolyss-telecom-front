@@ -26,7 +26,7 @@ const SectionHome1ITSolutions = (
                     <h3 className="av-title2">{_it.subtitle}</h3>
                     <p>{_it.description}</p>
                     <NavLink to={navUrl.pages(route.pages.FAQ)} className="site-button on-bg">
-                        Discover More
+                        En savoir plus
                         <i className="fa fa-plus" />
                     </NavLink>
                 </div>

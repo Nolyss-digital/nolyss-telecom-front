@@ -50,7 +50,6 @@
 				}
 			]
 		},
-		
 		"sectionClients": {
 			"clients": [
 				"images/client-logo/w1.png",
@@ -65,7 +64,6 @@
 				"images/client-logo/w5.png"
 			]
 		},
-
 		"sectionAbout": {
 			"image": "images/ab-1.jpg",
 			"title": "À propos de Nolyss Telecom",
@@ -79,7 +77,6 @@
 			},
 			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
 		},
-
 		"sectionCaseStudy": {
 			"title": "Our Case Study",
 			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
@@ -291,21 +288,21 @@
 			]
 		},
 		"sectionWhatWeDo": {
-			"title": "WHAT WE DO!",
-			"subtitle": "We Are Best Our Website Create And Solution In Office.",
-			"description": "<p class=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorr porttitor. In nec condimentum ante, sed vestibulum odio. Aliqua justo diam, euismod vel mauris in, mattis viverra.</p>",
+			"title": "CE QUE NOUS FAISONS",
+			"subtitle": "Des solutions télécom et numériques sur mesure.",
+			"description": "<p class=\"p-text\">Chez Nolyss Telecom, nous accompagnons les entreprises, les professionnels et les particuliers dans leur transition numérique grâce à des services innovants et performants.</p> <p class=\"p-text\">De la connectivité à la cybersécurité, nous concevons des solutions fiables et évolutives adaptées à vos besoins.</p>",
 			"features": [
 				{
 					"icon": "",
-					"title": "Preparing For Your Success Provide Best IT Solutions"
+					"title": "Nous développons des solutions adaptées à votre réussite"
 				},
 				{
 					"icon": "",
-					"title": "We Team of Experience It Specialties"
+					"title": "Une équipe d’experts engagés à vos côtés"
 				},
 				{
 					"icon": "",
-					"title": "We Run all kinds of Service that your Success"
+					"title": "Des services complets pour votre transformation numérique"
 				}
 			],
 			"image1": "images/whatwe/1.jpg",
@@ -314,61 +311,53 @@
 			"delivery": "53k"
 		},
 		"sectionIT": {
-			"title": "IT Solutions",
-			"subtitle": "Preparing For Your Success Provide Best.",
-			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"title": "",
+			"subtitle": "Des technologies fiables pour votre réussite.",
+			"description": "Nolyss Telecom propose des solutions globales pour accompagner votre transformation numérique : connectivité, téléphonie, cybersécurité, digital et IoT.",
 			"image": "images/background/itsolu-bg.jpg"
 		},
 		"sectionTestimonials": {
-			"title": "What Client Says?",
-			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+			"title": "Ce que disent nos clients",
+			"subtitle": "La satisfaction de nos clients est au cœur de notre engagement. Découvrez leurs retours sur les solutions et services Nolyss Telecom.",
 			"testimonials": [
 				{
 					"image": "images/client/pic1.png",
-					"name": "Mango M. Keple",
-					"designation": "Managing Director",
-					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
-					"reviews": "113",
-					"rating": "5"
-				},
-				{
-					"image": "images/client/pic2.png",
-					"name": "Monira T. Mishu",
-					"designation": "CEO Of Figma",
-					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
-					"reviews": "113",
-					"rating": "5"
-				},
-				{
-					"image": "images/client/pic3.png",
-					"name": "Towkib M. Keple",
-					"designation": "IT Supervisor",
-					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
-					"reviews": "113",
+					"name": "Sophie D.",
+					"designation": "Dirigeante PME",
+					"comment": "Grâce à Nolyss Telecom, nous avons modernisé toute notre infrastructure téléphonique et réseau. Une équipe réactive et très professionnelle.",
+					"reviews": "124",
 					"rating": "5"
 				},
 				{
 					"image": "images/client/pic1.png",
-					"name": "Mango M. Keple",
-					"designation": "Managing Director",
-					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
-					"reviews": "113",
-					"rating": "5"
-				},
-				{
-					"image": "images/client/pic2.png",
-					"name": "Monira T. Mishu",
-					"designation": "CEO Of Figma",
-					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
-					"reviews": "113",
+					"name": "Karim B.",
+					"designation": "Responsable IT",
+					"comment": "Excellente expérience ! Leurs solutions de cybersécurité et de connectivité ont vraiment renforcé la fiabilité de notre système.",
+					"reviews": "98",
 					"rating": "5"
 				},
 				{
 					"image": "images/client/pic1.png",
-					"name": "Mango M. Keple",
-					"designation": "Managing Director",
-					"comment": "Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats Inte finibus, nissd tempus semper, leoeli rokomoni our has been lecto.Nami ultricies sed leo eget ehi. Sede variu noniamit magna quists.",
-					"reviews": "113",
+					"name": "Laura M.",
+					"designation": "Consultante indépendante",
+					"comment": "Un partenaire de confiance pour mon activité. Le service client est à l’écoute et les solutions sont performantes.",
+					"reviews": "87",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic1.png",
+					"name": "Antoine R.",
+					"designation": "Chef d’entreprise",
+					"comment": "Nolyss Telecom nous a accompagné dans notre transition numérique avec professionnalisme. Résultats visibles dès les premières semaines.",
+					"reviews": "112",
+					"rating": "5"
+				},
+				{
+					"image": "images/client/pic1.png",
+					"name": "Claire T.",
+					"designation": "Directrice Marketing",
+					"comment": "Des experts engagés et disponibles. Nous recommandons vivement Nolyss Telecom pour la qualité de ses services.",
+					"reviews": "103",
 					"rating": "5"
 				}
 			]

@@ -69,21 +69,21 @@ const Home1Page = () => {
             {/* About US SECTION END */}
 
             {/* Case Study SECTION START */}
-            {
+            {/* {
                 results.caseStudy &&
                 <SectionHome1CaseStudy
                 _caseStudy={results.caseStudy!}
             />
-            }
+            } */}
             {/* Case Study SECTION END */}
 
             {/* Pricing plan SECTION START */}
-            {
+            {/* {
                 results.pricing &&
                 <SectionHome1Pricing
                 _pricing={results.pricing!}
             />
-            }
+            } */}
             {/* Pricing plan SECTION END */}
 
             {/* We Are About SECTION START */}
@@ -114,12 +114,12 @@ const Home1Page = () => {
             {/* Testimonials SECTION END */}
 
             {/* OUR BLOG SECTION START */}
-            {
+            {/* {
                 results.blogs &&
                 <SectionHome1Blogs
                 _blogs={results.blogs!}
             />
-            }
+            } */}
             {/* OUR BLOG SECTION END */}
 
             {/*Insta Gallery*/}

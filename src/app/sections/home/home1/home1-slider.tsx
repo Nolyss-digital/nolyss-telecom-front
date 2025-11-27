@@ -33,13 +33,13 @@ const SectionHome1Slider = (
                                         <div className="av-bnr-1-info">{_item.subtitle}</div>
                                         <div className="av-bnr-readmore">
                                             <NavLink to={navUrl.pages(route.pages.ABOUT)} className="site-button">
-                                                Discover More
+                                                En savoir plus
                                                 <i className="fa fa-plus" />
                                             </NavLink>
-                                            <NavLink to={navUrl.pages(route.pages.CONTACT)} className="site-button outline-white">
+                                            {/* <NavLink to={navUrl.pages(route.pages.CONTACT)} className="site-button outline-white">
                                                 Contact Us
                                                 <i className="fa fa-plus" />
-                                            </NavLink>
+                                            </NavLink> */}
                                         </div>
                                         {
                                             _item.video &&
