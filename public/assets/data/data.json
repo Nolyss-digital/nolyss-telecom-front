@@ -19,32 +19,32 @@
 		"sectionServices": {
 			"services": [
 				{
-					"icon": "images/icons/mobilite.png",
+					"icon": "images/icons/1.png",
 					"title": "Mobilité",
 					"subtitle": "Solutions mobiles et gestion de flotte sur mesure."
 				},
 				{
-					"icon": "images/icons/reseaux.png",
+					"icon": "images/icons/2.png",
 					"title": "Réseaux & Internet",
 					"subtitle": "Connectivité haut débit et infrastructures fiables."
 				},
 				{
-					"icon": "images/icons/telephonie.png",
+					"icon": "images/icons/3.png",
 					"title": "Téléphonie & Collaboration",
 					"subtitle": "Communication unifiée et outils cloud."
 				},
 				{
-					"icon": "images/icons/cybersecurite.png",
+					"icon": "images/icons/4.png",
 					"title": "Cybersécurité",
 					"subtitle": "Protection avancée de vos données et systèmes."
 				},
 				{
-					"icon": "images/icons/digital-data.png",
+					"icon": "images/icons/5.png",
 					"title": "Digital & Data",
 					"subtitle": "Solutions digitales et exploitation des données."
 				},
 				{
-					"icon": "images/icons/iot.png",
+					"icon": "images/icons/6.png",
 					"title": "IoT",
 					"subtitle": "Objets connectés et gestion intelligente."
 				}

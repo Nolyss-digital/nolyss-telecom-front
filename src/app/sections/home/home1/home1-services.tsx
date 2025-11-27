@@ -60,12 +60,12 @@ const SectionHome1Services = (
                             })
                         }
                     </div>
-                    {
+                    {/* {
                         _clients &&
                         <div className="av-client-slider1 p-t50 p-b20 site-bg-white">
                             <SectionHome1Clients _clients={_clients!} />
                         </div>
-                    }
+                    } */}
                 </div>
             </div>
         </div>

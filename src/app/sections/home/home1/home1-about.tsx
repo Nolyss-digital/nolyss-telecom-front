@@ -49,9 +49,9 @@ export const SectionHome1AboutContent = (
                     </div>
                     <div className="av-large-image">
                         <AvertImage src={_about.image} alt="#" />
-                        <div className="av-about-chart">
+                        {/* <div className="av-about-chart">
                             <AvertImage src="images/ab-2.png" alt="#" />
-                        </div>
+                        </div> */}
                     </div>
                     <div className="av-ab-dot-left">
                         <AvertImage src="images/ab-dotts.png" alt="#" />
@@ -77,7 +77,7 @@ export const SectionHome1AboutContent = (
                                         <AvertImage src="images/icon/ic-1.png" alt="icon" />
                                     </div>
                                     <div className="av-content">
-                                        <h3 className="av-title">Our Mission</h3>
+                                        <h3 className="av-title">Notre mission</h3>
                                         <p>{_about.mission}</p>
                                     </div>
                                 </div>
@@ -88,7 +88,7 @@ export const SectionHome1AboutContent = (
                                         <AvertImage src="images/icon/ic-2.png" alt="icon" />
                                     </div>
                                     <div className="av-content">
-                                        <h3 className="av-title">Our Vision</h3>
+                                        <h3 className="av-title">Notre vision</h3>
                                         <p>{_about.vision}</p>
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@ export const SectionHome1AboutContent = (
                     </div>
                     <div className="av-about-content-ftr">
                         <NavLink to={navUrl.pages(route.pages.CASE_DETAIL)} className="site-button">
-                            Discover More
+                            En savoir plus
                             <i className="fa fa-plus" />
                         </NavLink>
                         {
