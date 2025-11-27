@@ -107,7 +107,7 @@ const SectionFooter = () => {
                 <div className="footer-bottom-info">
                     <div className="footer-copy-right">
                         <span className="copyrights-text">
-                            <span className="site-text-primary">2024</span> © Nolyss Telecom. Tous droits réservés.
+                            <span className="site-text-primary">2026</span> © Nolyss Telecom. Tous droits réservés.
                         </span>
                     </div>
                 </div>
