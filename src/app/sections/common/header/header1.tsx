@@ -31,12 +31,12 @@ const SectionHeader1 = () => {
         toggleChatBox()
     }
 
-    useEffect(()=>{
+    useEffect(() => {
         loadScript("js/nav-menu.js");
     })
 
     return (
-        <header className={"site-header header-style-1 mobile-sider-drawer-menu "+(isDrawerVisible?'active':'')}>
+        <header className={"site-header header-style-1 mobile-sider-drawer-menu " + (isDrawerVisible ? 'active' : '')}>
             <div className="header-style-2-content">
                 <div className="top-bar site-bg-gray-light">
                     <div className="container">
@@ -44,24 +44,28 @@ const SectionHeader1 = () => {
                             <div className="wt-topbar-left d-flex flex-wrap align-content-center">
                                 <div className="wt-topbar-left-info">
                                     <ul className="social-icons">
-                                        <li><a href="https://www.facebook.com" className="fab fa-facebook"> </a></li>
-                                        <li><a href="https://www.x.com" className="fab fa-twitter"> </a></li>
-                                        <li><a href="https://www.instagram.com" className="fab fa-instagram"> </a></li>
-                                        <li><a href="https://in.linkedin.com" className="fab fa-linkedin"> </a></li>
+                                        <li><a href="https://www.facebook.com/nolysstelecom" className="fab fa-facebook"> </a></li>
+                                        <li><a href="https://x.com/nolysstelecom" className="fab fa-twitter"> </a></li>
+                                        <li><a href="https://www.instagram.com/nolysstelecom" className="fab fa-instagram"> </a></li>
+                                        <li><a href="https://www.linkedin.com/company/nolysstelecom" className="fab fa-linkedin"> </a></li>
                                     </ul>
-                                    <p>Welcome to It solutions &amp; Service Center.<NavLink to={navUrl.pages(route.pages.CONTACT)}>Get A Quote</NavLink></p>
+                                    <p>
+                                        Bienvenue chez <strong>Nolyss Telecom</strong>
+                                        <NavLink to={navUrl.pages(route.pages.CONTACT)}> Demandez un devis</NavLink>
+                                    </p>
                                 </div>
                             </div>
                             <div className="wt-topbar-right d-flex flex-wrap align-content-start">
                                 <ul className="wt-topbar-right-info">
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Term &amp; Condition</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Privacy Policy</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact Us</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Conditions générales</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Politique de confidentialité</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
+
                 <div className="header-middle-wraper">
                     <div className="container">
                         <div className="header-middle d-flex justify-content-between align-items-center">
@@ -78,29 +82,35 @@ const SectionHeader1 = () => {
                                         <li>
                                             <div className="twm-icon-box-wraper">
                                                 <div className="twm-icon-box">
-                                                    <AvertImage src="images/icon/call.png" alt="call" />
+                                                    <AvertImage src="images/icon/call.png" alt="Téléphone" />
                                                 </div>
                                                 <div className="twm-icon-box-content">
-                                                    <p>Phone Number</p>
-                                                    <h3 className="twm-tilte">(1)245-45678 call</h3>
+                                                    <p>Appelez-nous</p>
+                                                    <h3 className="twm-tilte">+33 1 84 60 25 90</h3>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div className="twm-icon-box-wraper">
                                                 <div className="twm-icon-box">
-                                                    <AvertImage src="images/icon/mail.png" alt="call" />
+                                                    <AvertImage src="images/icon/mail.png" alt="Email" />
                                                 </div>
                                                 <div className="twm-icon-box-content">
-                                                    <p>Quick You Email!</p>
-                                                    <h3 className="twm-tilte">help.info@gmail.com</h3>
+                                                    <p>Écrivez-nous</p>
+                                                    <h3 className="twm-tilte">contact@nolysstelecom.fr</h3>
                                                 </div>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
-                                <NavLink to={navUrl.pages(route.pages.CONTACT)} className="site-button">Meet With Us <i className="fa fa-plus" /> </NavLink>
+                                <NavLink
+                                    to={navUrl.pages(route.pages.CONTACT)}
+                                    className="site-button"
+                                >
+                                    Nous contacter <i className="fa fa-plus" />
+                                </NavLink>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -111,7 +121,7 @@ const SectionHeader1 = () => {
                                 <div className="navigation-bar">
                                     {/* NAV Toggle Button */}
                                     <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" className="navbar-toggler collapsed"
-                                    onClick={toggleNavDrawer}>
+                                        onClick={toggleNavDrawer}>
                                         <span className="sr-only">Toggle navigation</span>
                                         <span className="icon-bar icon-bar-first" />
                                         <span className="icon-bar icon-bar-two" />

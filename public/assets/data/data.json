@@ -4,14 +4,14 @@
 			"slides": [
 				{
 					"image": "images/main-slider/slider1/slider1.jpg",
-					"title": "Worry Free IT Solutions for your business",
-					"subtitle": "Pellentesque a arcu tincidunt, sollicitudin eros sed, venenatis justo. Proin sed tellus massa. Nullam bibendum sodales est in faucibus.",
+					"title": "Accélérez votre transition numérique",
+					"subtitle": "Nolyss Telecom accompagne les particuliers, les professionnels et les entreprises dans leurs projets de connectivité, de communication et de transformation digitale.",
 					"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
 				},
 				{
 					"image": "images/main-slider/slider1/slider2.jpg",
-					"title": "We are ready to provide the best IT solutions",
-					"subtitle": "Pulvinar erat placerat vitae. Sed quis aliquet neque. Aenean placerat condimentum lorem non suscipit. Cras tellus tellus, fringilla eu sapien.",
+					"title": "Des solutions connectées, performantes et durables",
+					"subtitle": "Réseaux & Internet, Téléphonie & Collaboration, Digital & Data, IoT — Nolyss Telecom met la technologie au service de votre réussite.",
 					"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
 				}
 			]
@@ -19,32 +19,38 @@
 		"sectionServices": {
 			"services": [
 				{
-					"icon": "images/icons/1.png",
-					"title": "IT Consultancy",
-					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+					"icon": "images/icons/mobilite.png",
+					"title": "Mobilité",
+					"subtitle": "Solutions mobiles et gestion de flotte sur mesure."
 				},
 				{
-					"icon": "images/icons/2.png",
-					"title": "Backup & Recovery",
-					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+					"icon": "images/icons/reseaux.png",
+					"title": "Réseaux & Internet",
+					"subtitle": "Connectivité haut débit et infrastructures fiables."
 				},
 				{
-					"icon": "images/icons/3.png",
-					"title": "Consulting Plan",
-					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+					"icon": "images/icons/telephonie.png",
+					"title": "Téléphonie & Collaboration",
+					"subtitle": "Communication unifiée et outils cloud."
 				},
 				{
-					"icon": "images/icons/4.png",
-					"title": "IT Management",
-					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+					"icon": "images/icons/cybersecurite.png",
+					"title": "Cybersécurité",
+					"subtitle": "Protection avancée de vos données et systèmes."
 				},
 				{
-					"icon": "images/icons/5.png",
-					"title": "Cyber Security",
-					"subtitle": "Consectetur adipiscng elit In non nisl tortor."
+					"icon": "images/icons/digital-data.png",
+					"title": "Digital & Data",
+					"subtitle": "Solutions digitales et exploitation des données."
+				},
+				{
+					"icon": "images/icons/iot.png",
+					"title": "IoT",
+					"subtitle": "Objets connectés et gestion intelligente."
 				}
 			]
 		},
+		
 		"sectionClients": {
 			"clients": [
 				"images/client-logo/w1.png",
@@ -59,20 +65,21 @@
 				"images/client-logo/w5.png"
 			]
 		},
+
 		"sectionAbout": {
 			"image": "images/ab-1.jpg",
-			"title": "We Are About Our Company Engineering IT Services.",
-			"description": "<p class=\"p-text\">Nulla et neque id nibh pretium vestibulum vitae euismod nisi. Inside tomopi condimentum dictum odio, sed faucibus enim ornare a. Nunc feugiat extem usto, vestibulum imperdiet ligula mollis vel.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorper porttitor. In nec condimentum ante, sed vestibulum odio. Aliquam justo diam, euismod vel mauris in, mattis viverra.</p>",
-			"mission": "Donec faucibus erat neque, in mortalma consectetu.",
-			"vision": "Donec faucibus erat neque, in mortalma consectetu.",
-			"experience": "20 Years",
+			"title": "À propos de Nolyss Telecom",
+			"description": "<p class=\"p-text\">Nolyss Telecom accompagne les particuliers, les professionnels et les entreprises dans leur transition numérique grâce à des solutions globales et performantes.</p> <p class=\"p-text\">Experts en télécom, réseaux et digital, nous mettons la technologie au service de votre croissance et de votre sécurité.</p>",
+			"mission": "Simplifier la technologie pour tous.",
+			"vision": "Être le partenaire de confiance de votre transformation numérique.",
 			"visitors": {
-				"time": "Jun 24",
-				"previous": "68k",
-				"current": "120k"
+				"time": "Nov 25",
+				"previous": "15k",
+				"current": "45k"
 			},
 			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
 		},
+
 		"sectionCaseStudy": {
 			"title": "Our Case Study",
 			"subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
@@ -1753,17 +1760,17 @@
 	},
 	"contact": {
 		"sectionContact": {
-			"title": "Contact Us",
-			"subtitle": "Have Questions? Get in Touch!",
-			"description1": "<p className=\"p-text\">Fusce ut nunc ultricies, blandit lacus quis, viverra est. Fusce ut placerat orci, ut tristique ipsum. Proin id pulvinar massa. Nam tristique eleifend nullam felis risus facilisis estlis pellentesque.</p>",
-			"description2": "<p className=\"p-text\">Cusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae. Fusce ut nunc ultricies.</p>",
+			"title": "Contactez-nous",
+			"subtitle": "Besoin d’un accompagnement ? Parlons-en !",
+			"description1": "<p className=\"p-text\">Vous avez un projet de transformation numérique, de téléphonie ou de cybersécurité ? L’équipe Nolyss Telecom est à votre écoute pour vous conseiller et construire la solution la plus adaptée à vos besoins.</p>",
+			"description2": "<p className=\"p-text\">Contactez-nous dès aujourd’hui pour obtenir un devis personnalisé ou en savoir plus sur nos services en mobilité, réseaux, téléphonie, digital et IoT.</p>",
 			"contact": {
-				"phone": "(1)245-45678",
-				"email": "help.info@gmail.com",
-				"location": "Mirpur 12, Block C, Dhaka, BD.",
-				"phone_subtitle": "",
-				"email_subtitle": "",
-				"location_subtitle": ""
+				"phone": "+33 1 84 60 25 90",
+				"email": "contact@nolysstelecom.fr",
+				"location": "Paris, France",
+				"phone_subtitle": "Service commercial et support technique",
+				"email_subtitle": "Nous répondons sous 24h",
+				"location_subtitle": "Bureaux & zone d’intervention nationale"
 			}
 		}
 	},
