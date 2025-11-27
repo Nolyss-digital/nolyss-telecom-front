@@ -9,12 +9,12 @@ import { TypePageHome1 } from "../../@types/pageTypes";
 import SectionHome1Slider from "../../sections/home/home1/home1-slider";
 import SectionHome1Services from "../../sections/home/home1/home1-services";
 import SectionHome1About from "../../sections/home/home1/home1-about";
-import SectionHome1CaseStudy from "../../sections/home/home1/home1-case-study";
-import SectionHome1Pricing from "../../sections/home/home1/home1-pricing";
+// import SectionHome1CaseStudy from "../../sections/home/home1/home1-case-study";
+// import SectionHome1Pricing from "../../sections/home/home1/home1-pricing";
 import SectionHome1WhatWeDo from "../../sections/home/home1/home1-what-we-do";
 import SectionHome1ITSolutions from "../../sections/home/home1/home1-it-solutions";
 import SectionHome1Testimonials from "../../sections/home/home1/home1-testimonials";
-import SectionHome1Blogs from "../../sections/home/home1/home1-blogs";
+// import SectionHome1Blogs from "../../sections/home/home1/home1-blogs";
 import SectionHome1InstaGallery from "../../sections/home/home1/home1-insta-gallery";
 
 /**
