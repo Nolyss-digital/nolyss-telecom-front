@@ -52,7 +52,7 @@ const SectionTextBanner = (props: {
                     {/* BREADCRUMB ROW */}
                     <div>
                         <ul className="wt-breadcrumb breadcrumb-style-2">
-                            <li><NavLink to={route.home.HOME1}>Home</NavLink></li>
+                            <li><NavLink to={route.home.HOME1}>Accueil</NavLink></li>
                             <li>{props._data.crumb}</li>
                         </ul>
                     </div>
@@ -79,7 +79,7 @@ const SectionImageBanner = (props: {
                     {/* BREADCRUMB ROW */}
                     <div>
                         <ul className="wt-breadcrumb breadcrumb-style-2">
-                            <li><NavLink to={route.home.HOME1}>Home</NavLink></li>
+                            <li><NavLink to={route.home.HOME1}>Accueil</NavLink></li>
                             <li>{props._data.crumb}</li>
                         </ul>
                     </div>
@@ -109,7 +109,7 @@ const SectionContactBanner = (props: {
                     {/* BREADCRUMB ROW */}
                     <div>
                         <ul className="wt-breadcrumb breadcrumb-style-2">
-                            <li><NavLink to={route.home.HOME1}>Home</NavLink></li>
+                            <li><NavLink to={route.home.HOME1}>Accueil</NavLink></li>
                             <li>{props._data.crumb}</li>
                         </ul>
                     </div>

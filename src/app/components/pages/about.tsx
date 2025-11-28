@@ -69,21 +69,21 @@ function AboutUsPage() {
             {/* IT Solutions SECTION START */}
             
             {/* Pricing plan SECTION START */}
-            {
+            {/* {
                 results.pricing &&
                 <SectionHome1Pricing
                 _pricing={results.pricing!}
             />
-            }
+            } */}
             {/* Pricing plan SECTION END */}
 
             {/* We Are About SECTION START */}
-            {
+            {/* {
                 results.whatWeDo &&
                 <SectionHome1WhatWeDo
                 _whatWeDo={results.whatWeDo!}
             />
-            }
+            } */}
             {/* We Are About SECTION START */}
 
             {/*Services SECTION START */}

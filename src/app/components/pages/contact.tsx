@@ -7,8 +7,8 @@ import { TypePageContact } from "../../@types/pageTypes";
 import { useEffect, useState } from "react";
 import { getContactData } from "../../../api/contact-service";
 import { loadScript } from "../../../globals/common-functions";
-import banner from "../../../globals/banner.json";
-import SectionInnerPageBanner from "../../sections/common/banner";
+// import banner from "../../../globals/banner.json";
+// import SectionInnerPageBanner from "../../sections/common/banner";
 import SectionContactInfo from "../../sections/contact/contct-info";
 import SectionContactForm from "../../sections/contact/contact-form";
 import SectionContactAdvert from "../../sections/contact/contact-advert";
@@ -36,7 +36,7 @@ function ContactUsPage() {
     return (
         <>
             {/* INNER PAGE BANNER */}
-            <SectionInnerPageBanner _data={banner.contact} _type={BANNER_TYPE.CONTACT} />
+            {/* <SectionInnerPageBanner _data={banner.contact} _type={BANNER_TYPE.CONTACT} /> */}
             {/* INNER PAGE BANNER END */}
 
             {/* Case Study SECTION START */}

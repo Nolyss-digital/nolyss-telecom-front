@@ -1173,16 +1173,15 @@
 	},
 	"about": {
 		"sectionAbout": {
-			"image": "images/ab-3.jpg",
-			"title": "We Are About Our Company Engineering IT Services.",
-			"description": "<p class=\"p-text\">Nulla et neque id nibh pretium vestibulum vitae euismod nisi. Inside tomopi condimentum dictum odio, sed faucibus enim ornare a. Nunc feugiat extem usto, vestibulum imperdiet ligula mollis vel.</p> <p class=\"p-text\">Praesent euismod imperdiet dignissim. Quisque eu quam at libero ullamcorper porttitor. In nec condimentum ante, sed vestibulum odio. Aliquam justo diam, euismod vel mauris in, mattis viverra.</p>",
-			"mission": "Donec faucibus erat neque, in mortalma consectetu.",
-			"vision": "Donec faucibus erat neque, in mortalma consectetu.",
-			"experience": "20 Years",
+			"image": "images/ab-1.jpg",
+			"title": "À propos de Nolyss Telecom",
+			"description": "<p class=\"p-text\">Nolyss Telecom accompagne les particuliers, les professionnels et les entreprises dans leur transition numérique grâce à des solutions globales et performantes.</p> <p class=\"p-text\">Experts en télécom, réseaux et digital, nous mettons la technologie au service de votre croissance et de votre sécurité.</p>",
+			"mission": "Simplifier la technologie pour tous.",
+			"vision": "Être le partenaire de confiance de votre transformation numérique.",
 			"visitors": {
-				"time": "Jun 24",
-				"previous": "68k",
-				"current": "120k"
+				"time": "Nov 25",
+				"previous": "15k",
+				"current": "45k"
 			},
 			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
 		},
