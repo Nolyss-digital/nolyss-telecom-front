@@ -2,7 +2,7 @@
  * @module Page-Contact-Us
  */
 
-import { BANNER_TYPE } from "../../../globals/constants";
+// import { BANNER_TYPE } from "../../../globals/constants";
 import { TypePageContact } from "../../@types/pageTypes";
 import { useEffect, useState } from "react";
 import { getContactData } from "../../../api/contact-service";

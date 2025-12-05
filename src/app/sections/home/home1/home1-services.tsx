@@ -2,8 +2,8 @@
  * @module Section-Home1-Services
  */
 
-import { NavLink } from "react-router-dom";
-import { navUrl } from "../../../../globals/common-functions";
+// import { NavLink } from "react-router-dom";
+// import { navUrl } from "../../../../globals/common-functions";
 import { SECTION_THEME, route } from "../../../../globals/constants";
 import { TypeSectionServices } from "../../../@types/sectionTypes";
 import AvertImage from "../../../../globals/elements/avertimg";
