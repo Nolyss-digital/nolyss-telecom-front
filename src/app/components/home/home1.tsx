@@ -105,12 +105,12 @@ const Home1Page = () => {
             {/* IT Solutions SECTION START */}
 
             {/* Testimonials SECTION START */}
-            {
+            {/* {
                 results.testimonials &&
                 <SectionHome1Testimonials
                 _testimonials={results.testimonials!}
             />
-            }
+            } */}
             {/* Testimonials SECTION END */}
 
             {/* OUR BLOG SECTION START */}
@@ -123,12 +123,12 @@ const Home1Page = () => {
             {/* OUR BLOG SECTION END */}
 
             {/*Insta Gallery*/}
-            {
+            {/* {
                 results.instagram &&
                 <SectionHome1InstaGallery
                 _instagram={results.instagram!}
             />
-            }
+            } */}
             {/*Insta Gallery*/}
         </>
     )

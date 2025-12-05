@@ -23,9 +23,9 @@ const SectionHeaderNavMenu = () => {
 
     <li className="has-child">
       <a href="!#" style={stopAnchorNavigation}>Service</a>
-      <ul className="sub-menu">
+      {/* <ul className="sub-menu">
         <li>
-          <NavLink to={navUrl.services(route.pages.ABOUT)}>
+          <NavLink to={navUrl.services(route.pages.C)}>
             Professionnels
           </NavLink>
         </li>
@@ -34,12 +34,12 @@ const SectionHeaderNavMenu = () => {
             Entreprises
           </NavLink>
         </li>
-      </ul>
+      </ul> */}
     </li>
 
-    <li>
+    {/* <li>
       <NavLink to={navUrl.blogs(route.blogs.BLOGS)}>Blog</NavLink>
-    </li>
+    </li> */}
 
     <li>
       <NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink>

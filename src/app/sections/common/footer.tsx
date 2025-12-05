@@ -29,7 +29,7 @@ const SectionFooter = () => {
                                 <ul className="ftr-list">
                                     <li>
                                         <i className="feather feather-phone-call" />
-                                        <a href="tel:+33184602590">+33 1 84 60 25 90</a>
+                                        <a href="tel:+33184602590">+33 0745884731</a>
                                         
                                     </li>
                                     <li>

@@ -96,17 +96,17 @@ export const SectionHome1AboutContent = (
                         </div>
                     </div>
                     <div className="av-about-content-ftr">
-                        <NavLink to={navUrl.pages(route.pages.CASE_DETAIL)} className="site-button">
+                        <NavLink to={navUrl.pages(route.pages.ABOUT)} className="site-button">
                             En savoir plus
                             <i className="fa fa-plus" />
                         </NavLink>
-                        {
+                        {/* {
                             _about.video &&
                             <a href={_about.video!} className="mfp-video ac-text-circle-btn">
                                 <i className="fa fa-play" />
                                 <AvertImage className="spinner-object" src="images/icon/ic-3.png" alt="text" />
                             </a>
-                        }
+                        } */}
                     </div>
                 </div>
             </div>

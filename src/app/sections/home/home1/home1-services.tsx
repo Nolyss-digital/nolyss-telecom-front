@@ -43,14 +43,14 @@ const SectionHome1Services = (
                                                 <span><AvertImage src={_item.icon} alt="icon" /></span>
                                             </div>
                                             <div className="av-content">
-                                                <h3 className="av-title"><NavLink to={navUrl.services(route.services.DETAIL)}>{_item.title}</NavLink></h3>
+                                                <h3 className="av-title">{_item.title}</h3>
                                                 {
                                                     _item.subtitle &&
                                                     <p>{_item.subtitle!}</p>
                                                 }
-                                                <div className="av-readmore-btn">
+                                                {/* <div className="av-readmore-btn">
                                                     <NavLink to={navUrl.services(route.services.DETAIL)} className="site-button button-sm gray">Read More <i className="feather feather-plus" /> </NavLink>
-                                                </div>
+                                                </div> */}
                                             </div>
                                         </div>
                                     </div>

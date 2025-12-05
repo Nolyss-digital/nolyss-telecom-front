@@ -57,8 +57,8 @@ const SectionHeader1 = () => {
                             </div>
                             <div className="wt-topbar-right d-flex flex-wrap align-content-start">
                                 <ul className="wt-topbar-right-info">
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Conditions générales</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Politique de confidentialité</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Conditions générales</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Politique de confidentialité</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink></li>
                                 </ul>
                             </div>
@@ -86,7 +86,7 @@ const SectionHeader1 = () => {
                                                 </div>
                                                 <div className="twm-icon-box-content">
                                                     <p>Appelez-nous</p>
-                                                    <h3 className="twm-tilte">+33 1 84 60 25 90</h3>
+                                                    <h3 className="twm-tilte">+33 0745884731</h3>
                                                 </div>
                                             </div>
                                         </li>

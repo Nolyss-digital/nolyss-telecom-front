@@ -6,13 +6,13 @@
 					"image": "images/main-slider/slider1/slider1.jpg",
 					"title": "Accélérez votre transition numérique",
 					"subtitle": "Nolyss Telecom accompagne les particuliers, les professionnels et les entreprises dans leurs projets de connectivité, de communication et de transformation digitale.",
-					"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+					"video": ""
 				},
 				{
 					"image": "images/main-slider/slider1/slider2.jpg",
 					"title": "Des solutions connectées, performantes et durables",
 					"subtitle": "Réseaux & Internet, Téléphonie & Collaboration, Digital & Data, IoT — Nolyss Telecom met la technologie au service de votre réussite.",
-					"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU"
+					"video": ""
 				}
 			]
 		},
@@ -307,8 +307,8 @@
 			],
 			"image1": "images/whatwe/1.jpg",
 			"image2": "images/whatwe/2.jpg",
-			"video": "https://www.youtube.com/watch?v=c1XNqw2gSbU",
-			"delivery": "53k"
+			"video": "",
+			"delivery": "1M"
 		},
 		"sectionIT": {
 			"title": "",
@@ -1753,7 +1753,7 @@
 			"description1": "<p className=\"p-text\">Vous avez un projet de transformation numérique, de téléphonie ou de cybersécurité ? L’équipe Nolyss Telecom est à votre écoute pour vous conseiller et construire la solution la plus adaptée à vos besoins.</p>",
 			"description2": "<p className=\"p-text\">Contactez-nous dès aujourd’hui pour obtenir un devis personnalisé ou en savoir plus sur nos services en mobilité, réseaux, téléphonie, digital et IoT.</p>",
 			"contact": {
-				"phone": "+33 1 84 60 25 90",
+				"phone": "+33 0745884731",
 				"email": "contact@nolysstelecom.fr",
 				"location": "Paris, France",
 				"phone_subtitle": "Service commercial et support technique",

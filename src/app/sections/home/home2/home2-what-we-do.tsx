@@ -69,7 +69,7 @@ const SectionHome2WhatWeDo = (
                                     </svg>
                                     <div className="pie-content">
                                         <h3 className="av-title">{_whatWeDo.delivery}</h3>
-                                        <p>Deliver</p>
+                                        <p>Saved</p>
                                     </div>
                                 </div>
                             </div>
