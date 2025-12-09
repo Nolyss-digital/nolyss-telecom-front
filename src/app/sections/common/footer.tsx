@@ -29,7 +29,7 @@ const SectionFooter = () => {
                                 <ul className="ftr-list">
                                     <li>
                                         <i className="feather feather-phone-call" />
-                                        <a href="tel:+33184602590">+33 0745884731</a>
+                                        <a href="tel:+33184602590">0745884731</a>
                                         
                                     </li>
                                     <li>
@@ -49,12 +49,12 @@ const SectionFooter = () => {
                             <div className="widget widget_services ftr-list-center">
                                 <h3 className="widget-title">Services</h3>
                                 <ul>
-                                    <li><NavLink to={navUrl.services(route.services.SERVICES)}>Mobilité</NavLink></li>
-                                    <li><NavLink to={navUrl.services(route.services.SERVICES)}>Réseaux & Internet</NavLink></li>
-                                    <li><NavLink to={navUrl.services(route.services.SERVICES)}>Téléphonie & Collaboration</NavLink></li>
-                                    <li><NavLink to={navUrl.services(route.services.SERVICES)}>Cybersécurité</NavLink></li>
-                                    <li><NavLink to={navUrl.services(route.services.SERVICES)}>Digital & Data</NavLink></li>
-                                    <li><NavLink to={navUrl.services(route.services.SERVICES)}>IoT</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>Mobilité</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>Réseaux & Internet</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>Téléphonie & Collaboration</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>Cybersécurité</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>Digital & Data</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>IoT</NavLink></li>
                                 </ul>
                             </div>
                         </div>
@@ -66,7 +66,6 @@ const SectionFooter = () => {
                                 <ul>
                                     <li><NavLink to={route.home.HOME1}>Accueil</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Qui sommes-nous</NavLink></li>
-                                    <li><NavLink to={navUrl.blogs(route.blogs.STANDARD)}>Blog</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink></li>
                                 </ul>
                             </div>
@@ -79,7 +78,7 @@ const SectionFooter = () => {
                                 <ul>
                                     <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Pourquoi nous choisir</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Nos valeurs</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.PLANS)}>Nos offres</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Nos offres</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.FAQ)}>FAQ</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Mentions légales</NavLink></li>
                                 </ul>
@@ -92,9 +91,8 @@ const SectionFooter = () => {
                                 <h3 className="widget-title">Suivez-nous</h3>
                                 <ul className="social-icons">
                                     <li><a href="https://www.facebook.com/nolysstelecom" className="fa-brands fa-facebook"> </a></li>
-                                    <li><a href="https://x.com/nolysstelecom" className="fa-brands fa-square-x-twitter"> </a></li>
                                     <li><a href="https://www.instagram.com/nolysstelecom" className="fa-brands fa-square-instagram"> </a></li>
-                                    <li><a href="https://www.linkedin.com/company/nolysstelecom" className="fa-brands fa-linkedin"> </a></li>
+                                    <li><a href="https://www.linkedin.com/company/nolyss-telecom" className="fa-brands fa-linkedin"> </a></li>
                                 </ul>
                             </div>
                         </div>

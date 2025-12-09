@@ -17,15 +17,27 @@ const SectionHeaderNavMenu = () => {
       <NavLink to={route.home.HOME1}>Accueil</NavLink>
     </li>
 
-    <li>
+      <li>
       <NavLink to={navUrl.pages(route.pages.ABOUT)}>À propos</NavLink>
     </li>
 
-    <li className="has-child">
+     <li>
+      <NavLink to={navUrl.pages(route.pages.CASE_STUDY)}>Services</NavLink>
+    </li>
+
+      <li>
+      <NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink>
+    </li>
+
+    {/* <li>
+      <NavLink to={navUrl.pages(route.pages.ABOUT)}>À propos</NavLink>
+    </li> */}
+
+    {/* <li className="has-child">
       <a href="!#" style={stopAnchorNavigation}>Service</a>
-      {/* <ul className="sub-menu">
+      <ul className="sub-menu">
         <li>
-          <NavLink to={navUrl.services(route.pages.C)}>
+          <NavLink to={navUrl.services(route.pages.ABOUT)}>
             Professionnels
           </NavLink>
         </li>
@@ -34,16 +46,16 @@ const SectionHeaderNavMenu = () => {
             Entreprises
           </NavLink>
         </li>
-      </ul> */}
-    </li>
+      </ul>
+    </li> */}
 
     {/* <li>
       <NavLink to={navUrl.blogs(route.blogs.BLOGS)}>Blog</NavLink>
     </li> */}
 
-    <li>
+    {/* <li>
       <NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink>
-    </li>
+    </li> */}
   </ul>
 );
 

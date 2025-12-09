@@ -492,7 +492,7 @@
 			"services": [
 				{
 					"icon": "images/icons/1.png",
-					"title": "Branding & Design Service",
+					"title": "aaaaaaBranding & Design Service",
 					"count": "01"
 				},
 				{
@@ -1016,9 +1016,9 @@
 			]
 		},
 		"sectionIT": {
-			"title": "IT Solutions",
-			"subtitle": "Preparing For Your Success Provide Best.",
-			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"title": "Telecom",
+			"subtitle": "Des technologies fiables pour votre réussite.",
+			"description": "Nolyss Telecom propose des solutions globales pour accompagner votre transformation numérique : connectivité, téléphonie, cybersécurité, digital et IoT.",
 			"image": "images/background/itsolu-bg.jpg"
 		},
 		"sectionTestimonials": {
@@ -1212,9 +1212,9 @@
 			]
 		},
 		"sectionIT": {
-			"title": "IT Solutions",
-			"subtitle": "Preparing For Your Success Provide Best.",
-			"description": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin neque urna, iaculis et orci id, euismod arcu semper.",
+			"title": "Telecom",
+			"subtitle": "Des technologies fiables pour votre réussite.",
+			"description": "Nolyss Telecom propose des solutions globales pour accompagner votre transformation numérique : connectivité, téléphonie, cybersécurité, digital et IoT.",
 			"image": "images/background/itsolu-bg.jpg"
 		},
 		"sectionPricing": {
@@ -1301,33 +1301,58 @@
 			"services": [
 				{
 					"icon": "images/icons/1.png",
-					"title": "Branding & Design Service",
+					"title": "Cybersécurité (Entreprises)",
 					"count": "01"
 				},
 				{
 					"icon": "images/icons/1.png",
-					"title": "Advertising and marketing",
+					"title": "Cloud & Infrastructures (Entreprises)",
 					"count": "02"
 				},
 				{
 					"icon": "images/icons/1.png",
-					"title": "Web Development & Consulting",
+					"title": "Réseaux & Internet (Entreprises)",
 					"count": "03"
 				},
 				{
 					"icon": "images/icons/1.png",
-					"title": "Digital IT Consultancy Service",
+					"title": "Mobilité (Entreprises)",
 					"count": "04"
 				},
 				{
 					"icon": "images/icons/1.png",
-					"title": "Business Consultant & Support",
+					"title": "Téléphonie & Collaboration (Entreprises)",
 					"count": "05"
 				},
 				{
 					"icon": "images/icons/1.png",
-					"title": "Market Research & SEO Service",
+					"title": "IoT (Entreprises)",
 					"count": "06"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Digital & Data (Entreprises)",
+					"count": "07"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Téléphonie mobile (Professionnels)",
+					"count": "08"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Téléphonie fixe (Professionnels)",
+					"count": "09"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Accès Internet (Professionnels)",
+					"count": "10"
+				},
+				{
+					"icon": "images/icons/1.png",
+					"title": "Cybersécurité (Professionnels)",
+					"count": "11"
 				}
 			]
 		}
@@ -1450,74 +1475,44 @@
 		"cases": [
 			{
 				"image": "images/case-study/landscape/1.jpg",
-				"subtitle": "UI/UX creative design",
+				"subtitle": "Mobilité",
 				"categories": [
-					"Marketing",
-					"Software"
+					
 				]
 			},
 			{
 				"image": "images/case-study/landscape/2.jpg",
-				"subtitle": "Software Management",
+				"subtitle": "Réseaux & Internet",
 				"categories": [
-					"Marketing",
-					"Software"
+					
 				]
 			},
 			{
 				"image": "images/case-study/landscape/3.jpg",
-				"subtitle": "Digital marketing",
+				"subtitle": "Téléphonie & Collaboration",
 				"categories": [
-					"Marketing",
-					"Software"
+					
 				]
 			},
 			{
 				"image": "images/case-study/landscape/4.jpg",
-				"subtitle": "Customer support",
+				"subtitle": "Cybersécurité",
 				"categories": [
-					"Marketing",
-					"Software"
+					
 				]
 			},
 			{
 				"image": "images/case-study/landscape/5.jpg",
-				"subtitle": "Infrastructure Plan",
+				"subtitle": "Digital & Data",
 				"categories": [
-					"Marketing",
-					"Software"
+					
 				]
 			},
 			{
 				"image": "images/case-study/landscape/6.jpg",
-				"subtitle": "Firewall Advance",
+				"subtitle": "IoT",
 				"categories": [
-					"Marketing",
-					"Software"
-				]
-			},
-			{
-				"image": "images/case-study/landscape/7.jpg",
-				"subtitle": "Cyber Security",
-				"categories": [
-					"Marketing",
-					"Software"
-				]
-			},
-			{
-				"image": "images/case-study/landscape/8.jpg",
-				"subtitle": "UX/UI Strategy",
-				"categories": [
-					"Marketing",
-					"Software"
-				]
-			},
-			{
-				"image": "images/case-study/landscape/9.jpg",
-				"subtitle": "Web Marketing",
-				"categories": [
-					"Marketing",
-					"Software"
+					
 				]
 			}
 		]
@@ -1713,39 +1708,47 @@
 			]
 		}
 	},
-	"faq": {
-		"sectionFAQ": {
-			"title": "Frequency And Questions Provide.",
-			"subtitle": "Proin pharetra a ligula et malesuada. Pellentesque faucibus nisl mauris. Integer a odio semper, consequat enim ut, iaculis justo.",
-			"image": "images/faq-pic.png",
-			"faqs": [
-				{
-					"que": "What can we do for you with Figma?",
-					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit, vitae laoreet leo diam vitae quam. Curabitur dignissim nisi sed libero pellentesque hendrerit. Morbi condimentum in elit in lobortis."
-				},
-				{
-					"que": "What is the standard size of business cards?",
-					"ans": "Fusce eu eros nec felis venenatis fermentum sit amet eget turpis. Integer tempus massa ac arcu sollicitudin sollicitudin Vivamus neque urna, iaculis et orci id, euismod tempor arcu semper congue nulla amet finibus."
-				},
-				{
-					"que": "What can we do for you with Adobe Photoshop & Figma?",
-					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit pellentesque hendrerit. Morbi condimentum in elit in lobortis. Maurisvit velit erat. Nunc in urna sit amet nisi venenatis listed on a business card."
-				},
-				{
-					"que": "Do you create one single full home page?",
-					"ans": "Nullam pulvinar, enim ornare tristique vehicula, massa est eleifend velit pellentesque hendrerit. Morbi condimentum in elit in lobortis. Maurisvit velit erat. Nunc in urna sit amet nisi venenatis listed on a business card."
-				}
-			]
-		},
-		"sectionFAQContact": {
-			"phone": "+55 (9900) 666 22",
-			"email": "info.mirpur@gmail.com",
-			"location": "14/4, Bonosri, United States.",
-			"phone_subtitle": "Nunc dolor mauris, hendrerit amet felis in, interdum rhoncus.",
-			"email_subtitle": "Nunc dolor mauris, hendrerit amet felis in, interdum rhoncus.",
-			"location_subtitle": "Nunc dolor mauris, hendrerit amet felis in, interdum rhoncus."
-		}
-	},
+
+
+"faq": {
+  "sectionFAQ": {
+    "title": "Foire aux questions — Nolyss Télécom",
+    "subtitle": "Découvrez les réponses aux questions les plus courantes concernant nos solutions, nos offres et notre accompagnement dédié aux professionnels.",
+    "image": "images/faq-pic.png",
+    "faqs": [
+      {
+        "que": "Qu'est-ce que Nolyss Télécom ?",
+        "ans": "Nolyss Télécom est votre partenaire spécialisé dans la connectivité, les télécommunications professionnelles et les solutions numériques destinées aux entreprises. Notre objectif est simple : fournir des services fiables, accessibles et adaptés à chaque besoin."
+      },
+      {
+        "que": "Quels services propose Nolyss Télécom ?",
+        "ans": "Nous vous accompagnons à travers un ensemble complet de solutions : téléphonie mobile et fixe professionnelle, Internet haut débit et fibre, réseaux sécurisés, cybersécurité, IoT, connectivité cloud, collaboration et outils digitaux. Chaque service est pensé pour optimiser vos opérations au quotidien."
+      },
+      {
+        "que": "Qu’est-ce que la solution UCaaS ?",
+        "ans": "UCaaS est une plateforme de Communications Unifiées hébergée dans le cloud. Elle centralise appels, visioconférence, messagerie et collaboration afin de simplifier les échanges internes et externes de votre entreprise, sans contrainte technique."
+      },
+      {
+        "que": "Pourquoi choisir Nolyss Télécom ?",
+        "ans": "Choisir Nolyss Télécom, c'est vous assurer un partenaire capable d’adapter ses solutions à votre réalité terrain. Nous privilégions la personnalisation, la transparence et un accompagnement humain. Vous bénéficiez d’un suivi dédié, d’une flexibilité de déploiement et de services évolutifs."
+      },
+      {
+        "que": "Comment obtenir un devis ou contacter le support ?",
+        "ans": "Vous pouvez nous joindre à tout moment par téléphone, email ou via notre formulaire en ligne. Un conseiller Nolyss Télécom vous accompagne pour analyser vos besoins et vous proposer une solution sur mesure, claire et évolutive."
+      }
+    ]
+  },
+  "sectionFAQContact": {
+    "phone": "0745884731",
+    "email": "contact@nolysstelecom.fr",
+    "location": "Basé en France — opération et support entreprise.",
+    "phone_subtitle": "Un expert vous répond et vous oriente vers la solution adaptée.",
+    "email_subtitle": "Contactez-nous par email pour une demande d'information ou un devis.",
+    "location_subtitle": "Support & accompagnement dédié aux entreprises en France."
+  }
+},
+
+
 	"contact": {
 		"sectionContact": {
 			"title": "Contactez-nous",
@@ -1753,7 +1756,7 @@
 			"description1": "<p className=\"p-text\">Vous avez un projet de transformation numérique, de téléphonie ou de cybersécurité ? L’équipe Nolyss Telecom est à votre écoute pour vous conseiller et construire la solution la plus adaptée à vos besoins.</p>",
 			"description2": "<p className=\"p-text\">Contactez-nous dès aujourd’hui pour obtenir un devis personnalisé ou en savoir plus sur nos services en mobilité, réseaux, téléphonie, digital et IoT.</p>",
 			"contact": {
-				"phone": "+33 0745884731",
+				"phone": "0745884731",
 				"email": "contact@nolysstelecom.fr",
 				"location": "Paris, France",
 				"phone_subtitle": "Service commercial et support technique",

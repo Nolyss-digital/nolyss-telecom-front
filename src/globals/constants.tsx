@@ -20,14 +20,14 @@ export const route = {
     },
     pages: {
         INITIAL: "/pages",
-        ABOUT: "/about-us",
+        ABOUT: "/qui-nous-sommes",
         CONTACT: "/contact-us",
-        CASE_STUDY: "/case-study",
+        CASE_STUDY: "/services",
         CASE_DETAIL: "/case-detail",
         TESTIMONIALS: "/testimonials",
         FAQ: "/faq",
-        PLANS: "/pricing-plans",
-        TEAM: "/our-team"
+        PLANS: "/conditions-generales",
+        TEAM: "/politique_de_confidentialite"
     },
     blogs: {
         INITIAL: "/blogs",

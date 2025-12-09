@@ -44,7 +44,7 @@ function CaseStudyPage() {
                     <div className="container">
                         <div className="section-content">
                             <SectionCaseStudyCases _cases={results.cases!} />
-                            <SectionPagination />
+                            {/* <SectionPagination /> */}
                         </div>
                     </div>
                 </div>

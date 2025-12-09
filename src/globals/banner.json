@@ -1,7 +1,7 @@
 {
     "about": {
-        "title": "About Us",
-        "crumb": "About Us",
+        "title": "Qui sommes-nous",
+        "crumb": "Qui sommes-nous",
         "image": ""
     },
     "case_detail": {
@@ -10,8 +10,8 @@
         "image": "images/banner/portfolio-d.jpg"
     },
     "case_study": {
-        "title": "Case Study",
-        "crumb": "Case Study",
+        "title": "Services",
+        "crumb": "Services",
         "image": ""
     },
     "clients": {
@@ -30,13 +30,13 @@
         "image": ""
     },
     "pricing": {
-        "title": "Pricing Page",
-        "crumb": "Pricing Page",
+        "title": "Conditions générales",
+        "crumb": "Conditions générales",
         "image": ""
     },
     "team": {
-        "title": "Team Member",
-        "crumb": "Team Page",
+        "title": "Politique de confidentialité",
+        "crumb": "Politique de confidentialité",
         "image": ""
     },
     "services": {

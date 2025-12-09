@@ -45,9 +45,8 @@ const SectionHeader1 = () => {
                                 <div className="wt-topbar-left-info">
                                     <ul className="social-icons">
                                         <li><a href="https://www.facebook.com/nolysstelecom" className="fab fa-facebook"> </a></li>
-                                        <li><a href="https://x.com/nolysstelecom" className="fab fa-twitter"> </a></li>
                                         <li><a href="https://www.instagram.com/nolysstelecom" className="fab fa-instagram"> </a></li>
-                                        <li><a href="https://www.linkedin.com/company/nolysstelecom" className="fab fa-linkedin"> </a></li>
+                                        <li><a href="https://www.linkedin.com/company/nolyss-telecom" className="fab fa-linkedin"> </a></li>
                                     </ul>
                                     <p>
                                         Bienvenue chez <strong>Nolyss Telecom</strong>
@@ -57,8 +56,8 @@ const SectionHeader1 = () => {
                             </div>
                             <div className="wt-topbar-right d-flex flex-wrap align-content-start">
                                 <ul className="wt-topbar-right-info">
-                                    <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Conditions générales</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Politique de confidentialité</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.PLANS)}>Conditions générales</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.TEAM)}>Politique de confidentialité</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.CONTACT)}>Contact</NavLink></li>
                                 </ul>
                             </div>
@@ -86,7 +85,7 @@ const SectionHeader1 = () => {
                                                 </div>
                                                 <div className="twm-icon-box-content">
                                                     <p>Appelez-nous</p>
-                                                    <h3 className="twm-tilte">+33 0745884731</h3>
+                                                    <h3 className="twm-tilte">0745884731</h3>
                                                 </div>
                                             </div>
                                         </li>
@@ -133,17 +132,17 @@ const SectionHeader1 = () => {
                                     </div>
                                     {/* Header Right Section*/}
                                     <div className="extra-nav header-1-nav">
-                                        <div className="extra-cell one">
+                                        {/* <div className="extra-cell one">
                                             <div className="header-search">
                                                 <button id="#search" className="header-search-icon"><i className="fa fa-search" /> </button>
                                             </div>
-                                        </div>
-                                        <div className="extra-cell two">
+                                        </div> */}
+                                        {/* <div className="extra-cell two">
                                             <button id="av-chat-block" className="header-chat-icon"
                                                 onClick={toggleChatBox}>
                                                 <AvertImage src="images/icon/chat-icon.png" alt="#" width={24} />
                                             </button>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>

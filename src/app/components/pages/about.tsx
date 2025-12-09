@@ -51,12 +51,12 @@ function AboutUsPage() {
             {/* About US SECTION END */}
 
             {/* Team SECTION START */}
-            {
+            {/* {
                 results.team &&
                 <SectionHome2Team 
                 _team={results.team!} 
                 _theme={SECTION_THEME.LIGHT} />
-            }
+            } */}
             {/* Team SECTION END */}
             
             {/* IT Solutions SECTION START */}
@@ -87,12 +87,14 @@ function AboutUsPage() {
             {/* We Are About SECTION START */}
 
             {/*Services SECTION START */}
+            {/* <div className="mt-5">
             {
-                results.services &&
+                results.it &&
                 <SectionHome3Services 
                 _services={results.services!} 
                 _theme={SECTION_THEME.LIGHT} />
             }
+            </div> */}
             {/* Services SECTION END */}
         </>
     )
