@@ -3,7 +3,7 @@
  */
 
 import { NavLink } from "react-router-dom";
-import { stopAnchorNavigation, route } from "../../../../globals/constants";
+import { route } from "../../../../globals/constants";
 import { navUrl } from "../../../../globals/common-functions";
 
 /**

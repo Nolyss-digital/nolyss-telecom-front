@@ -9,7 +9,6 @@ import { loadScript } from "../../../globals/common-functions";
 import banner from '../../../globals/banner.json';
 import SectionInnerPageBanner from "../../sections/common/banner";
 import SectionCaseStudyCases from "../../sections/case-study/case-study-cases";
-import SectionPagination from "../../sections/common/pagination";
 
 /**
  * 

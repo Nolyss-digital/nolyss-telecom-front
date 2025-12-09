@@ -2,18 +2,15 @@
  * @module Page-About-Us
  */
 
-import { SECTION_THEME } from "../../../globals/constants";
 import { TypePageAbout } from "../../@types/pageTypes";
 import { useEffect, useState } from "react";
 import { getAboutData } from "../../../api/about-service";
 import { loadScript } from "../../../globals/common-functions";
 import banner from '../../../globals/banner.json';
 import SectionHome2About from "../../sections/home/home2/home2-about";
-import SectionHome2Team from "../../sections/home/home2/home2-team";
 import SectionHome1ITSolutions from "../../sections/home/home1/home1-it-solutions";
 // import SectionHome1Pricing from "../../sections/home/home1/home1-pricing";
 // import SectionHome1WhatWeDo from "../../sections/home/home1/home1-what-we-do";
-import SectionHome3Services from "../../sections/home/home3/home3-services";
 import SectionInnerPageBanner from "../../sections/common/banner";
 
 /**

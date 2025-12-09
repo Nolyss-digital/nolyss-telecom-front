@@ -16,13 +16,12 @@ import SectionInnerPageBanner from "../../sections/common/banner";
 function OurTeamPage() {
 
     const _teamDefault: TypePageTeam = {};
-    const [results, setResults] = useState(_teamDefault);
+    const [setResults] = useState(_teamDefault);
     const [isFetching, setIsFetching] = useState(true);
 
     useEffect(() => {
         getTeamData((response: TypePageTeam) => {
             setIsFetching(false);
-            setResults(response);
             loadScript("js/custom.js");
         });
     }, [isFetching]);
