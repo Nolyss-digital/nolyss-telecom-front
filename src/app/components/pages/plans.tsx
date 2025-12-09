@@ -15,8 +15,6 @@ import SectionInnerPageBanner from "../../sections/common/banner";
  */
 function PricingPlansPage() {
 
-    const _pricingDefault: TypePagePricing = {};
-    const [setResults] = useState(_pricingDefault);
     const [isFetching, setIsFetching] = useState(true);
 
     useEffect(() => {

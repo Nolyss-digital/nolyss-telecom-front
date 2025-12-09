@@ -15,8 +15,6 @@ import SectionInnerPageBanner from "../../sections/common/banner";
  */
 function OurTeamPage() {
 
-    const _teamDefault: TypePageTeam = {};
-    const [setResults] = useState(_teamDefault);
     const [isFetching, setIsFetching] = useState(true);
 
     useEffect(() => {
