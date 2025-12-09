@@ -2,7 +2,6 @@
  * @module Page-Our-Team
  */
 
-import { TypePageTeam } from "../../@types/pageTypes";
 import { useEffect, useState } from "react";
 import { getTeamData } from "../../../api/team-service";
 import { loadScript } from "../../../globals/common-functions";
