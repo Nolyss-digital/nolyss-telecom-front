@@ -18,7 +18,7 @@ function OurTeamPage() {
     const [isFetching, setIsFetching] = useState(true);
 
     useEffect(() => {
-        getTeamData((response: TypePageTeam) => {
+        getTeamData(() => {
             setIsFetching(false);
             loadScript("js/custom.js");
         });
