@@ -77,10 +77,8 @@ const SectionFooter = () => {
                                 <h3 className="widget-title">Liens rapides</h3>
                                 <ul>
                                     <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Pourquoi nous choisir</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Nos valeurs</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Nos offres</NavLink></li>
                                     <li><NavLink to={navUrl.pages(route.pages.FAQ)}>FAQ</NavLink></li>
-                                    <li><NavLink to={navUrl.pages(route.pages.ABOUT)}>Mentions légales</NavLink></li>
+                                    <li><NavLink to={navUrl.pages(route.pages.PLANS)}>Mentions légales</NavLink></li>
                                 </ul>
                             </div>
                         </div>
