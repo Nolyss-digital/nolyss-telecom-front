@@ -10,8 +10,8 @@
 				},
 				{
 					"image": "images/main-slider/slider1/slider2.jpg",
-					"title": "Des solutions connectées, performantes et durables",
-					"subtitle": "Réseaux & Internet, Téléphonie & Collaboration, Digital & Data, IoT — Nolyss Telecom met la technologie au service de votre réussite.",
+					"title": "Télécom professionnel pour entreprises",
+					"subtitle": "Le télécom est rarement un sujet stratégique. Jusqu’au moment où il bloque l’activité.",
 					"video": ""
 				}
 			]
@@ -67,9 +67,9 @@
 		"sectionAbout": {
 			"image": "images/ab-1.jpg",
 			"title": "À propos de Nolyss Telecom",
-			"description": "<p class=\"p-text\">Nolyss Telecom accompagne les entreprises dans leur transition numérique grâce à des solutions globales et performantes.</p> <p class=\"p-text\">Experts en télécom, réseaux et digital, nous mettons la technologie au service de votre croissance et de votre sécurité.</p>",
-			"mission": "Simplifier la technologie pour tous.",
-			"vision": "Être le partenaire de confiance de votre transformation numérique.",
+			"description": "<p class=\"p-text\">Nolyss Telecom accompagne les entreprises, TPE et PME dans la mise en place et le pilotage de leurs solutions télécom professionnelles, avec une approche simple :</p> <p class=\"p-text\">des infrastructures fiables, des choix cohérents, un interlocuteur identifié.</p>",
+			"mission": "Proposer des solutions utiles, maîtrisées et simples, sans complexité inutile.",
+			"vision": "Être un partenaire fiable et durable de la transformation numérique.",
 			"visitors": {
 				"time": "Nov 25",
 				"previous": "15k",
@@ -436,12 +436,13 @@
 		},
 		"sectionInstagram": {
 			"images": [
-				"images/insta-gallery/1.jpg",
-				"images/insta-gallery/2.jpg",
-				"images/insta-gallery/3.jpg",
-				"images/insta-gallery/4.jpg",
-				"images/insta-gallery/5.jpg",
-				"images/insta-gallery/6.jpg"
+				"images/insta-gallery/6.jpeg",
+				"images/insta-gallery/1.jpeg",
+				"images/insta-gallery/2.jpeg",
+				"images/insta-gallery/3.jpeg",
+				"images/insta-gallery/4.jpeg",
+				"images/insta-gallery/5.jpeg"
+				
 			]
 		}
 	},

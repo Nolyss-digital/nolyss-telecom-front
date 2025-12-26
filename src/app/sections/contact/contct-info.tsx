@@ -45,8 +45,8 @@ const SectionContactInfo = (props: {
                                 <i className="feather feather-phone-call" />
                             </div>
                             <div className="twm-icon-box-content">
-                                <p>Phone Number</p>
-                                <h3 className="twm-tilte">{_contact.contact.phone} call</h3>
+                                <p>Numéro de téléphone</p>
+                                <h3 className="twm-tilte">{_contact.contact.phone} </h3>
                             </div>
                         </div>
                     </li>
@@ -56,7 +56,7 @@ const SectionContactInfo = (props: {
                                 <i className="feather feather-mail" />
                             </div>
                             <div className="twm-icon-box-content">
-                                <p>Quick You Email!</p>
+                                <p>Adresse e-mail</p>
                                 <h3 className="twm-tilte">{_contact.contact.email}</h3>
                             </div>
                         </div>
@@ -67,7 +67,7 @@ const SectionContactInfo = (props: {
                                 <i className="feather feather-map-pin" />
                             </div>
                             <div className="twm-icon-box-content">
-                                <p>Your Location</p>
+                                <p>Votre localisation</p>
                                 <h3 className="twm-tilte">{_contact.contact.location}</h3>
                             </div>
                         </div>

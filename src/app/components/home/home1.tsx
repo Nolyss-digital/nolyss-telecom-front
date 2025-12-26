@@ -15,7 +15,7 @@ import SectionHome1WhatWeDo from "../../sections/home/home1/home1-what-we-do";
 import SectionHome1ITSolutions from "../../sections/home/home1/home1-it-solutions";
 // import SectionHome1Testimonials from "../../sections/home/home1/home1-testimonials";
 // import SectionHome1Blogs from "../../sections/home/home1/home1-blogs";
-// import SectionHome1InstaGallery from "../../sections/home/home1/home1-insta-gallery";
+import SectionHome1InstaGallery from "../../sections/home/home1/home1-insta-gallery";
 
 /**
  * 
@@ -123,12 +123,12 @@ const Home1Page = () => {
             {/* OUR BLOG SECTION END */}
 
             {/*Insta Gallery*/}
-            {/* {
+            {
                 results.instagram &&
                 <SectionHome1InstaGallery
                 _instagram={results.instagram!}
             />
-            } */}
+            }
             {/*Insta Gallery*/}
         </>
     )

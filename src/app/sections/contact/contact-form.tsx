@@ -96,7 +96,7 @@ const SectionContactForm = () => {
 
             <div className="comment-form-cookies-consent mb-4">
               <p>
-                <span>*</span> Appelez-nous 24h/24 et 7j/7 ou remplissez le
+                <span>*</span> Appelez-nous ou remplissez le
                 formulaire ci-dessous pour recevoir un devis gratuit.
               </p>
             </div>

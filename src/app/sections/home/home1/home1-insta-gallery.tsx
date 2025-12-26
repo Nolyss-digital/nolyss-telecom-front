@@ -6,7 +6,6 @@ import { TypeSectionInstagram } from "../../../@types/sectionTypes";
 import AvertImage from "../../../../globals/elements/avertimg";
 
 /**
- * 
  * @param props : Data supplied to display instagram gallery
  * @returns Markup for section with instagram images list
  */
@@ -33,7 +32,7 @@ const SectionHome1InstaGallery = (
                             })
                         }
                     </div>
-                    <a className="btn-insta site-button yellow2" href="https://www.instagram.com/">
+                    <a className="btn-insta site-button yellow2" href="https://www.instagram.com/nolysstelecom">
                         <span className="feather feather-instagram" /> Instagram
                     </a>
                 </div>
