@@ -288,32 +288,32 @@
 			]
 		},
 		"sectionWhatWeDo": {
-			"title": "CE QUE NOUS FAISONS",
-			"subtitle": "Des solutions télécom et numériques sur mesure.",
-			"description": "<p class=\"p-text\">Chez Nolyss Telecom, nous accompagnons les entreprises dans leur transition numérique grâce à des services innovants et performants.</p> <p class=\"p-text\">De la connectivité à la cybersécurité, nous concevons des solutions fiables et évolutives adaptées à vos besoins.</p>",
-			"features": [
-				{
-					"icon": "",
-					"title": "Nous développons des solutions adaptées à votre réussite"
-				},
-				{
-					"icon": "",
-					"title": "Une équipe d’experts engagés à vos côtés"
-				},
-				{
-					"icon": "",
-					"title": "Des services complets pour votre transformation numérique"
-				}
-			],
-			"image1": "images/whatwe/1.jpg",
-			"image2": "images/whatwe/2.jpg",
-			"video": "",
-			"delivery": "1M"
-		},
+  "title": "CE QUE NOUS FAISONS",
+  "subtitle": "Un interlocuteur unique, un accompagnement durable.",
+  "description": "<p class=\"p-text\">Chez Nolyss Telecom, vous bénéficiez d’un interlocuteur identifié qui connaît votre installation, comprend votre organisation et vous accompagne dans la durée.</p><p class=\"p-text\">Pas de discours générique, pas de rotation d’interlocuteurs, pas de perte d’historique : nous construisons une relation claire, suivie et efficace.</p>",
+  "features": [
+    {
+      "icon": "",
+      "title": "Un interlocuteur unique qui maîtrise votre environnement"
+    },
+    {
+      "icon": "",
+      "title": "Une compréhension réelle de votre organisation et de vos enjeux"
+    },
+    {
+      "icon": "",
+      "title": "Un accompagnement continu, sans rupture ni perte d’historique"
+    }
+  ],
+  "image1": "images/whatwe/1.jpg",
+  "image2": "images/whatwe/2.jpg",
+  "video": "",
+  "delivery": "1M"
+},
 		"sectionIT": {
-			"title": "",
-			"subtitle": "Des technologies fiables pour votre réussite.",
-			"description": "Nolyss Telecom propose des solutions globales pour accompagner votre transformation numérique : connectivité, téléphonie, cybersécurité, digital et IoT.",
+			"title": "ENGAGEMENT",
+			"subtitle": "Notre engagement.",
+			"description": "Prendre en charge les sujets télécom avec sérieux, apporter de la clarté là où il y a de la complexité, et faire en sorte que le télécom ne devienne jamais un problème.",
 			"image": "images/background/itsolu-bg.jpg"
 		},
 		"sectionTestimonials": {
